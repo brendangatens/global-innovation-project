@@ -1,6 +1,6 @@
 ---
 title: The Failure Cult of Silicon Valley
-date: 2016-10-08 10:17:00 Z
+date: 2016-10-07 10:17:00 Z
 tags:
 - Silicon Valley
 ---
