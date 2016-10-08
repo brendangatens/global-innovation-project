@@ -1,0 +1,24 @@
+---
+title: Global Innovation Project
+layout: default
+---
+
+<div class="container">
+  <div class="row">
+
+    <div class="col-md-7">
+      {% for page in site.pages %}
+        {% if page.title == 'Project Overview' %}
+          {{ page.content | markdownify }}
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="col-md-4 offset-md-1">
+      {% for post in site.posts %}
+        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
+      {% endfor %}
+    </div>
+
+  </div>
+</div>
