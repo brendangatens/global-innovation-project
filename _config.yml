@@ -14,7 +14,7 @@ defaults:
     type: posts
   values:
     Feature Image:
-    author: Kathryn White
+    Author: Kathryn White
     layout: post
     permalink: "/posts/:title/"
 - scope:
