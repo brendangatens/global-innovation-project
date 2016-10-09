@@ -13,6 +13,7 @@ defaults:
     path: ''
     type: posts
   values:
+    author: Kathryn White
     layout: post
     permalink: "/posts/:title/"
 - scope:

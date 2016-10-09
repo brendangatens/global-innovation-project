@@ -4,6 +4,21 @@ layout: default
 ---
 
 <div class="container">
+
+  <div class="row">
+
+    <div class="col-md-12">
+      {% for page in site.pages %}
+        {% if page.title == 'Home' %}
+          <div class="intro">
+            {{ page.content | markdownify }}
+          </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+  </div>
+
   <div class="row">
 
     <div class="col-md-7">
@@ -15,9 +30,17 @@ layout: default
     </div>
 
     <div class="col-md-4 offset-md-1">
-      {% for post in site.posts %}
-        <a href="{{ post.url }}"><h3>{{ post.title }}</h3></a>
-      {% endfor %}
+      <div class="post-list">
+        <h4>Posts</h4>
+        {% for post in site.posts %}
+          <div class="post-item">
+            <a href="{{ post.url }}">
+              <h3>{{ post.title }}</h3>
+              <p class="post-date">{{ post.date | date: '%d %B, %Y' }}</p>
+            </a>
+          </div>
+        {% endfor %}
+      </div>
     </div>
 
   </div>

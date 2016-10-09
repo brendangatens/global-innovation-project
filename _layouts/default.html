@@ -5,6 +5,8 @@
 
   <body {% if page.slug %}class="{{ page.slug }}"{% endif %}>
 
+    {% include nav.html %}
+
     {{ content }}
 
     {% include footer.html %}
