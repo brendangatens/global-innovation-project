@@ -6,7 +6,7 @@ tags:
 - South Korea
 ---
 
-Arriving in Seoul, it’s hard to believe that South Korea isn’t a more popular tourist destination, although I’m sure the tourism trade here will increase just as dramatically as the overall economic fortunes of this miraculous country. Incheon airport does a very efficient job of welcoming you to the country while you pass through its majestic souring architecture, reminiscent of the transport hub of some futuristic robot city.
+Arriving in Seoul, it’s hard to believe that South Korea isn’t a more popular tourist destination than it is, although I’m sure the tourism trade here will increase just as dramatically as the overall economic fortunes of this miraculous country. Incheon airport does a very efficient job of welcoming you to the country while you pass through its majestic souring architecture, reminiscent of the transport hub of some futuristic robot city.
 
 ![IMG_0934.jpg](/uploads/IMG_0934.jpg)
 
@@ -24,7 +24,7 @@ Alongside the food comes the ubiquitous soju (the Korean equivalent to vodka), w
 
 I’ve read many tales of the hard-working nature of Koreans, but it looks like the old maxim ‘work hard – play hard’ rings true, as the streets on a Thursday night were filled with groups eating, drinking and laughing together (perhaps enjoying the value of the Korean sense of Jeong – a special way of looking at interpersonal bonds). It was a vibrant atmosphere to stroll around in, weaving through the smoking men gathered outside restaurants, dodging the zigzagging cars and mopeds, and listening to the rhythmic thump of the man repeatedly hitting fried fish with a hammer… (Don’t ask, I don’t know why. Maybe someone can fill me in on that one!)
 
-Despite the relaxed evening atmosphere, I did see signs of the competitive Korea I had read about, as well as getting a glimpse of the scale of Seoul’s population size. The public transit was crammed full even though I was traveling in the middle of the day (I’d hate to see it in rush hour), and the first billboards presented to me when I got off the plane were for ‘medi-tours’ and plastic surgery (apparently at least half of young women in Korea have plastic surgery to get ahead).
+Despite the relaxed evening atmosphere, I did see signs of the competitive Korea I had read about, as well as getting a glimpse of the scale of Seoul’s population size. The public transit was crammed full even though I was traveling in the middle of the day (I’d hate to see it in rush hour), and the first billboards presented to me when I got off the plane were for ‘medi-tours’ and plastic surgery (one estimate I read suggested around half of young women in Korea have plastic surgery to get ahead).
 
 ![IMG_0933.jpg](/uploads/IMG_0933.jpg)
 ![IMG_0932.jpg](/uploads/IMG_0932.jpg)
