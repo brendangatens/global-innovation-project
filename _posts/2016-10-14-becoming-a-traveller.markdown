@@ -1,5 +1,5 @@
 ---
-title: Becoming a traveller
+title: Becoming a Traveller
 date: 2016-10-14 05:07:00 Z
 ---
 
