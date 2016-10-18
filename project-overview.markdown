@@ -30,6 +30,7 @@ I will be spending the year traveling around the world to gather on-the-ground r
 * Government support schemes
 * Collaborative working spaces
 * Meetup groups and online forums
+* Universities
 
 ## Research areas
 
@@ -67,7 +68,7 @@ The trip will be carried out in five separate legs, covering different areas of 
 **Leg 1 (October 6 – November 15 2016):**
 
 * South Korea (October 6th - 24th): I will be in Seoul for at least one week and will then travel around the country
-* Russia (Oct 24th - Nov 15th): I will be in Vladivostock initially then traveling along the Trans-Siberian Rail to Moscow and St Petersburg so will likely be in those cities in November.
+* Russia (Oct 24th - Nov 15th): I will be in Vladivostock Oct 24th - 27th, then flying to Moscow for Oct 28th - Nov 6th (attending the Open Innovations conference at Skolkovo Technopark on Oct 28th), and then in St Petersburg Nov 6th - 14th
 
 **Leg 2 (December 2016 – January 2017):**
 
