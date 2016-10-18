@@ -25,6 +25,8 @@ It would not surprise me to find that the Busan government was well aware of Bil
 
 It is refreshing to see a country so willing to look for ideas from difference sources (especially being willing to look beyond Silicon Valley), and so happy to embrace different types of innovation. It seems there is a certain sense of pragmatism and a willingness to try other people’s ideas that many other governments are lacking. I have always felt that the root of innovation is in diversity and the ability to assimilate different schools of thinking and marry disparate ideas. We need to be willing to look elsewhere, both in geography and in sector. The examples of Busan and Bilbao show the power of art as a force for change. Technology is not the only source of innovation.
 
+## Artworks from Gamcheon Culture Village
+
 ![IMG_0934.jpg](/uploads/IMG_9709.jpg)
 *A Gamcheon Culture Village mural*
 
