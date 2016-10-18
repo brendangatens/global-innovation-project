@@ -28,7 +28,9 @@ It is refreshing to see a country so willing to look for ideas from difference s
 ## Artworks from Gamcheon Culture Village
 
 ![IMG_0934.jpg](/uploads/IMG_9709.jpg)
-*A Gamcheon Culture Village mural*
+![IMG_0934.jpg](/uploads/IMG_9680.jpg)
+![IMG_0934.jpg](/uploads/IMG_9771.jpg)
+*Murals and wall art*
 
 ![IMG_0934.jpg](/uploads/IMG_9710.jpg)
 ![IMG_0934.jpg](/uploads/IMG_9713.jpg)
@@ -39,6 +41,9 @@ It is refreshing to see a country so willing to look for ideas from difference s
 
 ![IMG_0934.jpg](/uploads/IMG_9779.jpg)
 *'House of Wind' by Park Taehong (also featuring the author)*
+
+![IMG_0934.jpg](/uploads/IMG_9759.jpg)
+*A resident artist, Kim Lyang-Kyung, working in her studio*
 
 ---
 
