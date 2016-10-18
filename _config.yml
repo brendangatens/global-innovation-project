@@ -2,6 +2,9 @@
 title: Global Innovation Project
 timezone: UTC
 collections:
+  photos:
+    title: Photos
+    output: true
   posts:
     title: Posts
     output: true
