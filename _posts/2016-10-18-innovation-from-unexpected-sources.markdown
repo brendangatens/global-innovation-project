@@ -13,7 +13,7 @@ The project was called ‘Dreaming of Machu Picchu’ (Gamcheon’s mountainside
 
 ![IMG_0934.jpg](/uploads/IMG_9736.jpg)
 
-The artworks themselves reflect an elegant combination of cultural heritage and modern experimentation that I have observed and loved within South Korea. They range from brightly coloured murals on the walls, to architectural structures like the peaceful ‘Tower of Pleasing Loneliness’ by Seung Hyo-sang, to interior experiences like the intense ‘House of Darkness’ by Son Mongju and the ethereal 'House of Wind' by Park Taehong. Guiding visitors along the walls are schools of wooden signs, sometimes coalescing into gigantic sea murals. *(see foot of article for photos of artworks mentioned)*
+The artworks themselves reflect an elegant combination of cultural heritage and modern experimentation that I have observed and loved within South Korea. They range from brightly coloured murals on the walls, to architectural structures like the peaceful ‘Tower of Pleasing Loneliness’ by Seung Hyo-sang, to interior experiences like the intense ‘House of Darkness’ by Son Mongju and the ethereal 'House of Wind' by Park Taehong. Guiding visitors along the walls are schools of wooden signs, sometimes coalescing into gigantic sea murals. 
 
 ![IMG_0934.jpg](/uploads/IMG_9734.jpg)
 
