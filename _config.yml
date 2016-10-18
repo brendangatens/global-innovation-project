@@ -2,6 +2,9 @@
 title: Global Innovation Project
 timezone: UTC
 collections:
+  cities:
+    title: Cities
+    output: true
   countries:
     title: Countries
     output: true
