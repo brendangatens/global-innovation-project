@@ -22,7 +22,7 @@ defaults:
     path: ''
     type: posts
   values:
-    Feature Image:
+    Feature Image: 
     Author: Kathryn White
     layout: post
     permalink: "/posts/:title/"
@@ -35,7 +35,7 @@ defaults:
     path: ''
     type: photos
   values:
-    Photo:
-    Country:
-    City:
+    Photo: 
+    Country: 
+    City: 
 permalink: pretty
