@@ -15,9 +15,16 @@ In the bunk across from mine is a kind young man from Kyrgyzstan called Yousef. 
 
 The ferry is called ‘Eastern Dream’ and is bizarrely decorated with cartoons and Banksy copies. On one of the doors upstairs a panda wields two guns, while outside on the upper deck a threatening cartoon sea goddess towers ominously over our cartoon boat. There are three passenger floors – our huge economy cabin of a hundred bunk beds is on the lowest. On the second floor are 6-person cabins with curtains for doors, plus the glamourous ‘Zesta Bar’ and a couple of tiny shops. Up top are rooms with actual doors, some marked ‘Junior Suite’ and one labelled ‘Royal Suite’. It doesn’t look very regal from the outside. There is also a door marked ‘sauna’ and I go in to find a Japanese-style deep communal bath with the classic accompaniment of low showers and washing stools. 
 
+![IMG_0934.jpg](/uploads/IMG_0429.jpg)
+
 When I first board the boat I head to Zesta, to have some lunch paid with a credit card before we get out to see and the card machines become unreliable. The menu is only in Russian and Korean, so I point at a picture of something cheap that looks like a soufflé in a Korean metal pot. It arrives and turns out to be a pot of salty scrambled eggs (well, I suppose they are more souffled than scrambled, but it is still just a pot of egg). I wash my salty eggs down with an Asahi beer while squinting through a window made opaque by many journeys’ worth of salt residue. Not so different from the slow growth of the stalactites and -mites I saw in the cave I visited earlier today in Donghae city.
 
+![IMG_0934.jpg](/uploads/IMG_1864.jpg)
+![IMG_0934.jpg](/uploads/IMG_0544.jpg)
+
 A black box floats by in the ocean outside the window – I don’t know what it is. Perhaps some flotsam lost off the side of another vessel. It is only when I pass another one closer to the boat that I think perhaps it was a black flag – some sort of marker in the sea. A flag seems such a flimsy thing to survive these turbulent waters. The sprays outside have just reached up over the top of the window beside me, which must be at least 5ft high and sits well above the water’s surface, as I do. People stagger by holding onto bunks for support or pulling elaborate surfer poses. Some can only survive by lying down on bunks. 
+
+![IMG_0934.jpg](/uploads/IMG_0425.jpg)
 
 The ferry has been sailing for 90 minutes of the 22-hour journey from Donghae on the East Coast of South Korea, up to Vladivostok on the Far-Eastern edge of Russia. Some people are shocked when I tell them about my ferry journey – why wouldn’t I just fly? they ask. Others are more adventurous and ask whether anyone can take the ferry. I haven’t met a single Korean outside of Donghae who has heard of this ferry route. The ferry connects Japan, South Korea and Russia and seems to carry very few Koreans (unsurprising I suppose, given the wealth of the country today and their uneasiness with ferries).
 
