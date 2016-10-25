@@ -63,7 +63,7 @@ The dimensions of my research will spread across four broad categories:
 
 ## The countries
 
-The trip will be carried out in five separate legs, covering different areas of the globe. The itinerary has been kept purposefully loose to accommodate insights and suggestions from the people I meet, and also to allow for the very changeable nature of global politics and innovation systems. If you know any relevant contacts from any of the areas mentioned, please get in touch using the contact form.
+The trip will be carried out in five separate legs, covering different areas of the globe. The itinerary has been kept purposefully loose to accommodate insights and suggestions from the people I meet, and also to allow for the very changeable nature of global politics and innovation systems. If you know any relevant contacts from any of the areas mentioned, please get in touch using the contact form. *[Contact form in progress, in the meantime please email me at kat@global-innovation-project.com]*
 
 **Leg 1 (October 6 – November 15 2016):**
 
