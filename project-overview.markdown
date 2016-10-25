@@ -49,9 +49,9 @@ The dimensions of my research will spread across four broad categories:
 
 **Capital sources**
 
-Availability and liquidity of capital
-Nature of capital investment (venture, angel, bootstrapped etc)
-Presence of corporate venture funds
+* Availability and liquidity of capital
+* Nature of capital investment (venture, angel, bootstrapped etc)
+* Presence of corporate venture funds
 
 **Innovation infrastructure**
 
@@ -63,7 +63,7 @@ Presence of corporate venture funds
 
 ## The countries
 
-The trip will be carried out in five separate legs, covering different areas of the globe. The itinerary has been kept purposefully loose to accommodate insights and suggestions from the people I meet, and also to allow for the very changeable nature of global politics and innovation systems. If you know any relevant contacts from any of the areas mentioned, please get in touch using the contact form.
+The trip will be carried out in five separate legs, covering different areas of the globe. The itinerary has been kept purposefully loose to accommodate insights and suggestions from the people I meet, and also to allow for the very changeable nature of global politics and innovation systems. If you know any relevant contacts from any of the areas mentioned, please get in touch using the contact form. *[Contact form in progress, in the meantime please email me at kat@global-innovation-project.com]*
 
 **Leg 1 (October 6 – November 15 2016):**
 
@@ -111,6 +111,6 @@ For supportive businesses like startup campuses, coding groups, or small busines
 
 ## Getting involved
 
-If you have any thoughts or suggestions for the project, or would like to get involved in any way, please reach out through the contact form.
+If you have any thoughts or suggestions for the project, or would like to get involved in any way, please reach out through the contact form. *[Contact form in progress, in the meantime please email me at kat@global-innovation-project.com]*
 
 I would especially like to hear from anyone who would either like to be interviewed for the research, or can make introductions to someone connected to their local innovation ecosystem in any of the research locations mentioned. So if you know a startup founder in Nigeria, or a corporate innovation worker in Thailand, please get in touch!
