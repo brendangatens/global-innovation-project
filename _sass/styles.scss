@@ -17,12 +17,6 @@ img {
   height: auto;
 }
 
-.logo {
-  width: 200px;
-  height: auto;
-  margin: 40px 0;
-}
-
 .intro {
   padding-bottom: 40px;
   border-bottom: 1px solid darken( $white, 75% );
@@ -73,4 +67,58 @@ img {
   span {
     color: $white;
   }
+}
+
+.navbar-brand {
+  .logo {
+    width: 200px;
+    height: auto;
+    margin: 40px 0;
+  }
+  @include media-breakpoint-down(md) {
+    width: 100%;
+    .logo {
+      margin-top: 10px;
+    }
+  }
+}
+
+#collapsing-navbar {
+  @include media-breakpoint-up(sm) {
+  }
+  @include media-breakpoint-up(sm) {
+  }
+  @include media-breakpoint-up(lg) {
+    float: right;
+    width: 660px;
+    border-top: 1px solid $white;
+    margin-top: 140px;
+    font-size: 14px;
+    .nav-link {
+      padding-top: 16px;
+      font-weight: 400;
+    }
+  }
+  @include media-breakpoint-up(xl) {
+    width: 860px;
+  }
+  @include media-breakpoint-down(md) {
+    position: fixed;
+    top: 20px;
+    z-index: 100;
+  }
+  .navbar-nav {
+    @include media-breakpoint-down(md) {
+      background-color: #272E38;
+      padding: 20px;
+    }
+  }
+}
+
+.navbar-toggler {
+  color: $blue;
+  position: fixed;
+  top: 20px;
+  right: 10px;
+  z-index: 100;
 }
