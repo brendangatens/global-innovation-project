@@ -31,4 +31,18 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: photos
+  values:
+    Photo: 
+    Category: 
+    Country: 
+    City: 
+    layout: photo
+- scope:
+    path: ''
+    type: cities
+  values:
+    Country: 
 permalink: pretty
