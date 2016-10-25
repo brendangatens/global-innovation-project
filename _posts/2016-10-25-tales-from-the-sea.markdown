@@ -58,6 +58,7 @@ Overall it was an interesting journey, somewhat traumatic with the rough waves a
 
 ![IMG_0934.jpg](/uploads/IMG_0478.jpg)
 ![IMG_0934.jpg](/uploads/IMG_0468.jpg)
+![IMG_0934.jpg](/uploads/IMG_0519.jpg)
 ![IMG_0934.jpg](/uploads/IMG_0528.jpg)
 ![IMG_0934.jpg](/uploads/IMG_0503.jpg)
 ![IMG_0934.jpg](/uploads/IMG_0537.jpg)
