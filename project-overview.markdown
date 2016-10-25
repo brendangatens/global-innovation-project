@@ -49,9 +49,9 @@ The dimensions of my research will spread across four broad categories:
 
 **Capital sources**
 
-Availability and liquidity of capital
-Nature of capital investment (venture, angel, bootstrapped etc)
-Presence of corporate venture funds
+* Availability and liquidity of capital
+* Nature of capital investment (venture, angel, bootstrapped etc)
+* Presence of corporate venture funds
 
 **Innovation infrastructure**
 
