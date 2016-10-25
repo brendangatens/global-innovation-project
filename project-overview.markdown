@@ -111,6 +111,6 @@ For supportive businesses like startup campuses, coding groups, or small busines
 
 ## Getting involved
 
-If you have any thoughts or suggestions for the project, or would like to get involved in any way, please reach out through the contact form.
+If you have any thoughts or suggestions for the project, or would like to get involved in any way, please reach out through the contact form. *[Contact form in progress, in the meantime please email me at kat@global-innovation-project.com]*
 
 I would especially like to hear from anyone who would either like to be interviewed for the research, or can make introductions to someone connected to their local innovation ecosystem in any of the research locations mentioned. So if you know a startup founder in Nigeria, or a corporate innovation worker in Thailand, please get in touch!
