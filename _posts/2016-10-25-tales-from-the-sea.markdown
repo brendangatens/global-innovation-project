@@ -36,6 +36,8 @@ It’s around 6pm when I’m woken by loud laughter and Russian banter, and the 
 
 Upstairs I see that dinner is a segregated affair, with the fancier passengers served first from 6-6:30pm, followed at 6:30-7pm with the rest of us from the ghettos. The information booth sells dinner tickets to those not too nauseous to eat. I suppose the dinner is served in the strange restaurant I happened into on an earlier ramble around the boat, when I was shooed away for being in the wrong place. My stomach still remembers the salty eggs, so I think I will avoid any more ship food in favour of my bag of ramen and snacks. 
 
+![IMG_0934.jpg](/uploads/IMG_0428.jpg)
+
 I find a seat on the lower deck and settle in to read my Kindle. Currently I am alternating between two books on Russia, one a potted history of the country, the other a glimpse of modern Russia told through anecdotal stories of a television producer. I read the first until its discussion of politics and treaties becomes too dry, but I need it to understand the cultural references of the second. 
 
 As I read I surreptitiously watch the boat world go by. A young woman in her pyjamas comes and sits next to me without saying a word, soon joined by her mother, who also sits in silence. Another woman teeters around in high heels, looking like she’s having more fun than anyone on the boat. I see her and her group of men everywhere I go, always laughing and smiling and never faltering in her heels despite the rocking boat. An elderly Asian group is waiting for their dinner slot, painfully climbing the stairs to check the timing before painfully climbing down again to tell their friends. And the Russian men pass by with beers in hand. 
@@ -47,6 +49,8 @@ There is very little to do on the boat. Sleep, eat and drink seem to be the sum 
 I have just returned to Room 1301 and to my old spot by the window, when two men clatter in to my sanctuary. They are a drunken Laurel and Hardy, one big – in that broad-shouldered, built of stone style of Russian man – and one small and slight. The big guy steers the little one as he swirls across the floor in uneasy arcs, and deposits him in a bunk to pass out. Hardy then tests out various sleeping positions – on top of a set of life vest cupboards, face down across the stacks of folded floor mats, and finally in the bunk above his comedy partner, curtains shut tight against the bright lights. 
 
 ‘Bing bong. Bing bong,’ an announcement plays out over the tannoy. I wait for the speaker to get to English, but even then I can hardly follow what he’s saying. I think that the crew are putting on a performance upstairs, so I guess the ship comes with some entertainment after all. I debate with myself about leaving my blanket cocoon to battle up to the performance, but six hours at sea has my eyes drooping…
+
+![IMG_0934.jpg](/uploads/IMG_0552.jpg)
 
 
 ## Epilogue
