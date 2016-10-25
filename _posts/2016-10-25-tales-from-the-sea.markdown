@@ -34,7 +34,7 @@ I have just returned to Room 1301 and to my old spot by the window, when two men
 ‘Bing bong. Bing bong,’ an announcement plays out over the tannoy. I wait for the speaker to get to English, but even then I can hardly follow what he’s saying. I think that the crew are putting on a performance upstairs, so I guess the ship comes with some entertainment after all. I debate with myself about leaving my blanket cocoon to battle up to the performance, but six hours at sea has my eyes drooping…
 
 
-Epilogue
+## Epilogue
 The night was surprisingly quiet, bar the return of some partiers to the room around 3am, but we were all woken abruptly at 6am (and again at 6:30am) with the *bing bong* announcement of breakfast. The water was mercifully calm, so I was finally able to start work on my South Korea Report, and settled down at a window table with some very weak black tea and my laptop. The rough waters the night before had set the arrival time back by an hour so we didn’t dock until 3pm Vladivostok-time (1 hour ahead of South Korea), and the slow pace of the immigration checks meant it was past 4pm before I finally escaped the boat after 25 hours at sea. 
 
 Overall it was an interesting journey, somewhat traumatic with the rough waves and only a curtain between me and a room mostly full of men, but more interesting than simply flying in. The time that really made it worthwhile was the final few hours, sailing over the cold, serene waters as we got close to Vladivostok. As we drew closer we were treated with stunning views of the city and the elegant Vs of its signature bridges – much better than the paltry glimpses you get through airplane windows!
