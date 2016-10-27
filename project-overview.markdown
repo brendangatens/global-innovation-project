@@ -25,12 +25,19 @@ This democratisation should also level the playing field for innovation itself, 
 I will be spending the year traveling around the world to gather on-the-ground research through observations and interviews with groups involved in their local innovation communities. This could be any sort of connection, but key examples include:
 
 * Startup founders
+
 * Investors
+
 * Corporate innovation groups (i.e. someone working for a large company
+
 * whose role is to seek or develop innovative solutions)
+
 * Government support schemes
+
 * Collaborative working spaces
+
 * Meetup groups and online forums
+
 * Universities
 
 ## Research areas
@@ -40,35 +47,45 @@ The dimensions of my research will spread across four broad categories:
 **Company information**
 
 * Volume of startups
+
 * Types of industries, sectors and target markets
+
 * Various metrics on startups - size, age, stage, valuation etc
 
 **Founder demographics**
 
 * Demographics of startup founders - age, gender, background etc
+
 * Drivers to found a business
 
 **Capital sources**
 
 * Availability and liquidity of capital
+
 * Nature of capital investment (venture, angel, bootstrapped etc)
+
 * Presence of corporate venture funds
 
 **Innovation infrastructure**
 
 * Innovation network structure - groups, campuses, meetups, locations etc
+
 * Support from local government
+
 * Involvement of local businesses
+
 * Level of impact of innovation community from local to global scale
+
 * Innovation methodologies
 
 ## The countries
 
-The trip will be carried out in five separate legs, covering different areas of the globe. The itinerary has been kept purposefully loose to accommodate insights and suggestions from the people I meet, and also to allow for the very changeable nature of global politics and innovation systems. If you know any relevant contacts from any of the areas mentioned, please get in touch using the contact form. 
+The trip will be carried out in five separate legs, covering different areas of the globe. The itinerary has been kept purposefully loose to accommodate insights and suggestions from the people I meet, and also to allow for the very changeable nature of global politics and innovation systems. If you know any relevant contacts from any of the areas mentioned, please get in touch using the contact form.
 
 **Leg 1 (October 6 – November 15 2016):**
 
 * South Korea (October 6th - 24th): I will be in Seoul for at least one week and will then travel around the country
+
 * Russia (Oct 24th - Nov 15th): I will be in Vladivostock Oct 24th - 27th, then flying to Moscow for Oct 28th - Nov 6th (attending the Open Innovations conference at Skolkovo Technopark on Oct 28th), and then in St Petersburg Nov 6th - 14th
 
 **Leg 2 (December 2016 – January 2017):**
@@ -91,7 +108,8 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 The main outputs from the research will be:
 
-* Global Report: A comprehensive study identifying and comparing innovation centers across the world including forecasting of where we may see future centers emerge. A breakdown of startup demographics across the globe, identifying trends in types of businesses and their founders. 
+* Global Report: A comprehensive study identifying and comparing innovation centers across the world including forecasting of where we may see future centers emerge. A breakdown of startup demographics across the globe, identifying trends in types of businesses and their founders.
+
 * Local Reports: Monthly deep-dives on each visited location
 
 Follow this website for regular posts from the field. As I travel, I will be sharing insights related to the research as well as general commentary on my travel experiences.
@@ -112,6 +130,8 @@ For supportive businesses like startup campuses, coding groups, or small busines
 
 ## Getting involved
 
-If you have any thoughts or suggestions for the project, or would like to get involved in any way, please reach out through the contact form. 
+If you have any thoughts or suggestions for the project, or would like to get involved in any way, please reach out through the contact form.
 
 I would especially like to hear from anyone who would either like to be interviewed for the research, or can make introductions to someone connected to their local innovation ecosystem in any of the research locations mentioned. So if you know a startup founder in Nigeria, or a corporate innovation worker in Thailand, please get in touch!
+
+[Kathryn White](https://uk.linkedin.com/in/kathryn-white-12874616)
