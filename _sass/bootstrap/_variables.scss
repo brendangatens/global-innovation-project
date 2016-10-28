@@ -78,7 +78,7 @@ $enable-print-styles:       true !default;
 
 $spacer:   1rem !default;
 $spacer-x: $spacer !default;
-$spacer-y: $spacer !default;
+$spacer-y: 2rem;
 $spacers: (
   0: (
     x: 0,
