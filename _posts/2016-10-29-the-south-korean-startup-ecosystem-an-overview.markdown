@@ -14,7 +14,7 @@ South Korea’s entrepreneurial ecosystem is still in its infant stages, with ar
 
 ## Support programs
 
-The majority of incubator / accelerator programs and other startup support initiatives are underpinned by the government. These are often instituted in collaboration with Chaebols or universities. Some other groups, such as Google’s ‘Campus’ are also present in the ecosystem. Startup programs come in many forms, some providing investment, while others provide space, or simply community support and event hosting.
+The majority of incubator / accelerator programs and other startup support initiatives are underpinned by the government. These are often instituted in collaboration with Chaebols or universities. Some other groups, such as Google’s ‘Campus’ are also present in the ecosystem. Startup programs come in many forms, some providing investment, while others provide space, or simply community support and event hosting. The majority of startup activity is based in Seoul, although the government has established Centers for Creative Economy & Investment across the whole country, and Korea’s second largest city – Busan – is another hub of activity, especially in the areas of logistics, retail and the movie industry.
 
 ## Funding
 
