@@ -3,8 +3,10 @@ title: The Long Tail of Service Mistakes
 date: 2016-10-26 01:11:00 Z
 categories:
 - general
+- Travel
 tags:
 - service
+- travel
 ---
 
 In a slight diversion from my usual posts on travel and innovation, I want to tell you a story of the knock-on effects of seemingly small acts of poor service. 
