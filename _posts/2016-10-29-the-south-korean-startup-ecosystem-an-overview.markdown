@@ -4,8 +4,8 @@ date: 2016-10-29 06:46:00 Z
 categories:
 - innovation
 tags:
-- korea
 - innovation
+- South Korea
 ---
 
 *Having concluded my on-the-ground research in South Korea and moved on to Russia, I wanted to share a snapshot from the report I am compiling on the South Korean Startup Ecosystem. The report will go into detail of all the points raised in this overview.*
