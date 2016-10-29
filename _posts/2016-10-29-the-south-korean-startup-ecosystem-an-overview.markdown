@@ -13,7 +13,6 @@ tags:
 South Korea’s entrepreneurial ecosystem is still in its infant stages, with around a decade of targeted activity which has greatly increased in recent years. The government plays a very significant role in all aspects of the ecosystem, from funding to the establishment of support systems for startups. The system also receives support from the large ‘Chaebol’ organisations that dominate Korean markets (e.g. Samsung, LG, Lotte) as well as other large companies, such as networks of banks. This support often comes in the form of funding and incubation programs, usually in partnership with the government. It is less common for corporates to seek to work with startups in co-development.
 
 ## Support programs
-{: #custom-id}
 
 The majority of incubator / accelerator programs and other startup support initiatives are underpinned by the government. These are often instituted in collaboration with Chaebols or universities. Some other groups, such as Google’s ‘Campus’ are also present in the ecosystem. Startup programs come in many forms, some providing investment, while others provide space, or simply community support and event hosting. The majority of startup activity is based in Seoul, although the government has established Centers for Creative Economy & Investment across the whole country, and Korea’s second largest city – Busan – is another hub of activity, especially in the areas of logistics, retail and the movie industry.
 
