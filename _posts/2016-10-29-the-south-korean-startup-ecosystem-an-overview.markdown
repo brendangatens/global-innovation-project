@@ -8,7 +8,9 @@ tags:
 - innovation
 ---
 
-* Having concluded my on-the-ground research in South Korea and moved on to Russia, I wanted to share a snapshot from the report I am compiling on the South Korean Startup Ecosystem. The report will go into detail of all the points raised in this overview. *
+*Having concluded my on-the-ground research in South Korea and moved on to Russia, I wanted to share a snapshot from the report I am compiling on the South Korean Startup Ecosystem. The report will go into detail of all the points raised in this overview.*
+
+---
 
 South Korea’s entrepreneurial ecosystem is still in its infant stages, with around a decade of targeted activity which has greatly increased in recent years. The government plays a very significant role in all aspects of the ecosystem, from funding to the establishment of support systems for startups. The system also receives support from the large ‘Chaebol’ organisations that dominate Korean markets (e.g. Samsung, LG, Lotte) as well as other large companies, such as networks of banks. This support often comes in the form of funding and incubation programs, usually in partnership with the government. It is less common for corporates to seek to work with startups in co-development.
 
@@ -30,7 +32,7 @@ The Korean startup ecosystem does not yet have any clear focal sectors (e.g. Lon
 
 ## Markets
 
-Korea has a relatively small native market, and a desire to raise its profile on the international stage, and consequently many programs are aimed at helping startups to reach international markets. There are also programs to increase the activity of foreign entrepreneurs with Korea, although these are at an earlier stage. 
+Korea has a relatively small native market, and a desire to raise its profile on the international stage, and consequently many programs are aimed at helping startups to reach international markets. There are also programs to increase the activity of foreign entrepreneurs with Korea, although these are at an earlier stage.
 
 ## Diversity
 
