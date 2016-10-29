@@ -1,6 +1,11 @@
 ---
 title: The South Korean Startup Ecosystem - An Overview
 date: 2016-10-29 06:46:00 Z
+categories:
+- innovation
+tags:
+- korea
+- innovation
 ---
 
 South Korea’s entrepreneurial ecosystem is still in its infant stages, with around a decade of targeted activity which has greatly increased in recent years. The government plays a very significant role in all aspects of the ecosystem, from funding to the establishment of support systems for startups. The system also receives support from the large ‘Chaebol’ organisations that dominate Korean markets (e.g. Samsung, LG, Lotte) as well as other large companies, such as networks of banks. This support often comes in the form of funding and incubation programs, usually in partnership with the government. It is less common for corporates to seek to work with startups in co-development.
