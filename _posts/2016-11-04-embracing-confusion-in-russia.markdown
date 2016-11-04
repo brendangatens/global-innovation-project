@@ -1,6 +1,10 @@
 ---
 title: Embracing Confusion in Russia
 date: 2016-11-04 13:13:00 Z
+categories:
+- Travel
+tags:
+- Russia
 ---
 
 I have been in Russia for ten days now, and I have spent the majority of my time somewhere along the spectrum from mild to severe confusion. I spend so much time furrowing my brow and gritting my teeth that I have a persistent headache and nightmares about my teeth falling out. From restaurants, to art galleries, to office buildings, to banks, to train stations, I am bewildered. If you plan on visiting Russia my main piece of advice to you is to accept this state of confusion, or you’re not going to have a good time. Once you resign yourself to it, it’s strangely freeing to have no idea what’s going on, and just go with it anyway. It’s like being a child again, staring at the adults and trying to understand their mysterious ways.
