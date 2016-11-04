@@ -43,7 +43,7 @@ So if you can embrace the confusion and just follow where it leads you, you may 
 
 ![IMG_0934.jpg](/uploads/IMG_1968.jpg)
 
-## Photos from Vladivostok
+## More Photos from Vladivostok
 
 ![IMG_0934.jpg](/uploads/IMG_0622.jpg)
 ![IMG_0934.jpg](/uploads/IMG_0595.jpg)
