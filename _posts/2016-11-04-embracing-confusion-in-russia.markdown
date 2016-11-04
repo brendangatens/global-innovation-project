@@ -19,22 +19,27 @@ I really wish that story ended there. I wish that the next thing that happened w
 
 Confusion can lead you to chaos, but it can also spark an adventure. Take the snowy Sunday in Moscow, where I set out to visit the Tretyakov Gallery and found a line that stretched half-way round the building. Unable to figure out if this was general admissions or a special exhibit, I gave up and followed the river, where I discovered ‘The Ship Brusov’, an old ferry converted into a showcase for local designers, along with quirky cafes, art spaces and a startup workspace. 
 
-![IMG_0934.jpg](/uploads/IMG_9734.jpg)
+![IMG_0934.jpg](/uploads/IMG_2103.jpg)
+![IMG_0934.jpg](/uploads/IMG_2110.jpg)
 
 Confusing streets were part of the charm of Vladivostok, where pavements might abruptly end and you have to pick your way over chains and up and down staircases to rediscover the trail. It’s quite delightful when you’re exploring a new city to be forced down strange pathways to encounter odd buildings and crumbling steps. And Vladivostok is a truly beautiful city to explore. It has that eclectic charm of a city recovering a past grandeur. A mix of grand old architecture in varying states of repair (crisply painted on the main thoroughfare; crumbling on the back streets), iconic new structures (I could gaze at Vladivostok’s magnificent Golden Bridge for days), and stark black memorial statues. 
 
-![IMG_0934.jpg](/uploads/IMG_9734.jpg)
+![IMG_0934.jpg](/uploads/IMG_0568.jpg)
+![IMG_0934.jpg](/uploads/IMG_1953.jpg)
 
 The streets of Vladivostok are strangely devoid of local stores selling basic groceries and knick-knacks. Restaurants cluster together and then you can walk for long stretches without seeing any, though once you find one, they are warm and welcoming, with simple, filling meals like pancakes or dumplings, and an abundance of sugary cakes in bright colours. Freshly made fruit teas are a delicious speciality, packed with real chunks of fruits, herbs and roots, along with the ever-present kakao – Russia’s rich and creamy cocoa. Time in Vladivostok can be very happily spent curled up inside a cute café watching people hurry through the cold air outside. 
 
-![IMG_0934.jpg](/uploads/IMG_9734.jpg)
+![IMG_0934.jpg](/uploads/IMG_0638.jpg)
+![IMG_0934.jpg](/uploads/IMG_0637.jpg)
 
 On the surface, Russia is a cold place, not just with winter temperatures, but with human interaction. I don’t have many conversations in Vladivostok, where men in dark clothes sit silently in cars, almost invisible behind clouds of cigarette smoke, and faces are stony by default. I had been told before about the Russian smile, only used in sincerity and not flashed at strangers for false friendliness. It’s a trait which has an admirable honesty to it, but sometimes it feels like it saps the warmth from the streets in a much harsher way than the frozen air. 
 
 And yet, there is something very different beneath the surface. Behind the unsmiling face is often a person who will offer help in a simple matter-of-fact way, with no expectations. Behind the confusion is a population of the most pragmatic, no-nonsense people I’ve ever met (and this confuses me most of all). You may find your heavy bag taken from your hands and carried to the top of the steps for you with barely word, or a mechanic’s apprentice trying to call you a cab while you stand crying on the forecourt. Similarly, in my research, I have been taken aback by the easy acceptance of my requests for interviews, and the amazing people I have been able to meet through chains of introductions from people who barely know me. 
 
-So when it comes to Russia, if you can embrace the confusion and just follow where it leads you, you may find that just like the contrasts of brisk streets and cosy cafes, this country has a cold face and a warm heart. 
+So if you can embrace the confusion and just follow where it leads you, you may find that just like the contrasts of brisk streets and cosy cafes, Russia is a country with a cold face and a warm heart. 
 
-![IMG_0934.jpg](/uploads/IMG_9734.jpg)
-![IMG_0934.jpg](/uploads/IMG_9734.jpg)
+![IMG_0934.jpg](/uploads/IMG_1968.jpg)
+
+##Photos from Vladivostok
+![IMG_0934.jpg](/uploads/IMG_1964.jpg)
 ![IMG_0934.jpg](/uploads/IMG_9734.jpg)
