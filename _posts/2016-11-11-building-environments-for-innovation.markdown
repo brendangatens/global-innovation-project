@@ -45,5 +45,5 @@ Skolkovo’s example of building a special city to house your special people may
 
 ---
 
-References: Thanks to MinYoung You for posting about the Finnish education system on Facebook, and to the Independent for their article on the topic - http://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html
+References: Thanks to MinYoung You for posting about the Finnish education system on Facebook, and to the Independent for their article on the topic - ([www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html](http://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html))
 
