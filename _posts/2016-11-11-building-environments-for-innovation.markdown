@@ -43,8 +43,7 @@ There are also many examples of governments trying to build support structures a
 
 Skolkovo’s example of building a special city to house your special people may be a bit extreme, but there are lessons to be learned from the project and from the Finnish school reforms. There is a need to innovate to build better environments for innovation. If special people are special everywhere, then perhaps the trick is to direct them towards the reform of education and business legislation, and see what happens…
 
+---
 
-References
-
-Finnish school system: http://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html
+References: Thanks to MinYoung You for posting about the Finnish education system on Facebook, and to the Independent for their article on the topic - http://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html
 
