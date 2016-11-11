@@ -42,3 +42,9 @@ The government in Finland was one of the first to try a radically new approach t
 There are also many examples of governments trying to build support structures and safeguards for startups. The Skolkovo project is an attempt by the Russian government to build a new ‘city of innovation’ just outside Moscow. It includes both a brand-new university (Skoltech), which is already providing post-graduate study in a number of scientific disciplines and aims to offer an internationally competitive level of education with top of the line labs, equipment and professors, and a ‘Technopark’ providing office space and services for technology startups. Around these two pivotal pieces an entire city infrastructure is being built, with transport, housing, education and entertainment. Once complete, the city is intended to be an innovation hub to rival the likes of Silicon Valley. Skolkovo startups receive extensive tax breaks as well as access to services like accounting and legal at reduced prices. Skolkovo is an extremely ambitious project, and it will be many years before we can really see if it pays off (I will discuss Skolkovo in more depth in a future post), but it is a clear example of a country recognising the need to build a better environment to nurture innovation.
 
 Skolkovo’s example of building a special city to house your special people may be a bit extreme, but there are lessons to be learned from the project and from the Finnish school reforms. There is a need to innovate to build better environments for innovation. If special people are special everywhere, then perhaps the trick is to direct them towards the reform of education and business legislation, and see what happens…
+
+
+References
+
+Finnish school system: http://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html
+
