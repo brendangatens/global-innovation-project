@@ -48,5 +48,5 @@ Skolkovo’s example of building a special city to house your special people may
 **References:** 
 Big thanks to Katia Gaika for planting the idea for this post in my head. Katia is a Partner and Executive Director at NGRS (Next Generation Recruitment Services) and spent five years working on the Skolkovo project from 2010-2015. 
 
-Thanks to MinYoung You for posting about the Finnish education system on Facebook, and to the Independent for their article on the topic - ([www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html](http://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html))
+Thanks to MinYoung You for posting about the Finnish education system on Facebook, and to the Independent for their article on the topic - [www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html](http://www.independent.co.uk/news/world/europe/finland-schools-subjects-are-out-and-topics-are-in-as-country-reforms-its-education-system-10123911.html)
 
