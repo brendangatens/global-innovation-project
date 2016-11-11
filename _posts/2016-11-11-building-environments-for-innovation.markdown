@@ -15,13 +15,13 @@ Once your bravery and conviction has gotten you started, next you will need **TE
 
 But bravery, conviction and tenacity are the markers of many different types of successful people. Innovators also need the traits that will allow them to see new possibilities for the world that others can’t imagine.
 
-Of course they will need **imagination**, to allow them to picture a future that is radically different to the one they experience with their senses.
+Of course they will need **IMAGINATION**, to allow them to picture a future that is radically different to the one they experience with their senses.
 
-Innovators rarely settle with just one successful idea, they are excited by learning and have a tendency towards **exploration**. This keeps them on the far edge of understanding emerging fields and trends, and allows them to spot new market gaps as they develop.
+Innovators rarely settle with just one successful idea, they are excited by learning and have a tendency towards **EXPLORATION**. This keeps them on the far edge of understanding emerging fields and trends, and allows them to spot new market gaps as they develop.
 
-I have always believed that true innovation comes from combining ideas from different disciplines; sparks occurring at the intersection of seemingly unconnected ideas. This requires innovators to have **disparate understanding** across various fields of study. They do not need to be an expert in multiple fields, but at least have the capacity to understand the work of others and assimilate it with their own knowledge.
+I have always believed that true innovation comes from combining ideas from different disciplines; sparks occurring at the intersection of seemingly unconnected ideas. This requires innovators to have **DISPARATE UNDERSTANDING** across various fields of study. They do not need to be an expert in multiple fields, but at least have the capacity to understand the work of others and assimilate it with their own knowledge.
 
-This ability to understand different points of view also extends to the human level. **Empathy** allows innovators to understand markets and to see the real problems that need solving; recognising the needs, wants and concerns of the masses, not just their own.
+This ability to understand different points of view also extends to the human level. **EMPATHY** allows innovators to understand markets and to see the real problems that need solving; recognising the needs, wants and concerns of the masses, not just their own.
 
 Let me be clear that this is not a definitive, researched list, this is just my musings based on years of interactions with successful innovators. It’s also the case that many startups are founded by partners or teams who together encompass these traits, rather than embodying them all in a single person, e.g. one person with the idea and another with the fearless tenacity to pull it off.
 
