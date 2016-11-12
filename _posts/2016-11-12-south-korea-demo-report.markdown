@@ -11,9 +11,7 @@ Contents:
   '2.2': Geography
   '2.3': Culture
   '3.0': Areas of Activity
-  '3.1': Scale of Entrepreneurial Activity
-Field name:
-- 
+  '3.1': Scale of Entrepreneurial Activity 
 layout: report
 ---
 

@@ -7,10 +7,19 @@ layout: default
   <div class="row">
     <div class="col-md-8 offset-md-2">
 
-      {% for content in page.Contents %}
-        <p>{{ content[0] }}</p>
-        <h2>{{ content[1] }}</h2>
-      {% endfor %}
+      <ul class="list-unstyled">
+        {% for content in page.Contents %}
+        {% if content[0] contains ".0" %}
+        <li><a href="#" class="section-head">{{ content[1] }}</a></li>
+        {% else %}
+        <li><a href="#"><b>{{ content[0] }}</b> {{ content[1] }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+
+      <article>
+        {{ content }}
+      </article>
 
     </div>
   </div>
