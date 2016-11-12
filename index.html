@@ -33,12 +33,15 @@ layout: default
       <div class="post-list">
         <h4>Posts</h4>
         {% for post in site.posts %}
-          <div class="post-item">
-            <a href="{{ post.url }}">
-              <h3>{{ post.title }}</h3>
-              <p class="post-date">{{ post.date | date: '%d %B, %Y' }}</p>
-            </a>
-          </div>
+          {% if post.categories contains 'Report' %}
+          {% else if %}
+            <div class="post-item">
+              <a href="{{ post.url }}">
+                <h3>{{ post.title }}</h3>
+                <p class="post-date">{{ post.date | date: '%d %B, %Y' }}</p>
+              </a>
+            </div>
+          {% endif %}
         {% endfor %}
       </div>
     </div>
