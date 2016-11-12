@@ -1,19 +1,5 @@
 ---
-title: South Korea Demo Report
-date: 2016-11-12 16:30:00 Z
-categories:
-- Report
-Contents:
-  '1.0': Introduction
-  '1.1': Overview of the Ecosystem
-  '2.0': Cultural Factors
-  '2.1': History
-  '2.2': Geography
-  '2.3': Culture
-  '3.0': Areas of Activity
-  '3.1': Scale of Entrepreneurial Activity
-- 
-layout: report
+title: 2016 11 12 South Korea Demo Report
 ---
 
 ## Introduction
