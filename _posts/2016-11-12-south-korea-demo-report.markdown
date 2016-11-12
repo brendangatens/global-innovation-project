@@ -4,8 +4,7 @@ date: 2016-11-12 16:30:00 Z
 categories:
 - Report
 Contents:
-  '3': Areas of Activity
-  Section: Cultural Factors
+  Section: Areas of Activity
   Text: |-
     Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
 
