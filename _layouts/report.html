@@ -10,9 +10,9 @@ layout: default
       <ul class="list-unstyled">
         {% for content in page.Contents %}
         {% if content[0] contains ".0" %}
-        <li><a href="#" class="section-head">{{ content[1] }}</a></li>
+        <li><a href="#{{ content[1] | downcase | replace: ' ', '-' }}" class="section-head">{{ content[1] }}</a></li>
         {% else %}
-        <li><a href="#"><b>{{ content[0] }}</b> {{ content[1] }}</a></li>
+        <li><a href="#{{ content[1] | downcase | replace: ' ', '-' }}"><b>{{ content[0] }}</b> {{ content[1] }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
