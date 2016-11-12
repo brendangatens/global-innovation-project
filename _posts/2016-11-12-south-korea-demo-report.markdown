@@ -1,5 +1,6 @@
 ---
 title: 2016 11 12 South Korea Demo Report
+date: 2016-11-12 21:19:00 Z
 ---
 
 ## Introduction
