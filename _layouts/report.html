@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="container post">
+
+  <div class="row">
+    <div class="col-md-8 offset-md-2">
+
+      {% for content in page.contents %}
+        <p>{{ content[0] }}</p>
+        <h2>{{ content[1] }}</h2>
+      {% endfor %}
+
+    </div>
+  </div>
+
+</div>
