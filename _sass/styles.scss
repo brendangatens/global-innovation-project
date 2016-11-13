@@ -1,6 +1,10 @@
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
 body {
   font-family: 'Sailec', sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   padding-bottom: 40px;
 }
 
@@ -132,5 +136,29 @@ img {
   font-weight: bold;
   span {
     display: block;
+  }
+}
+
+//////////////////////////////////////////
+///////////////// REPORTS ////////////////
+//////////////////////////////////////////
+
+
+.table-of-contents {
+  li {
+    a {
+      font-size: 13px;
+      font-weight: 500;
+      b {
+        color: $white;
+      }
+    }
+    .section-head {
+      font-size: 12px;
+      font-weight: 700;
+      color: #666666;
+      text-transform: uppercase;
+      letter-spacing: .075em;
+    }
   }
 }
