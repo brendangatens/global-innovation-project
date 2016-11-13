@@ -23,6 +23,9 @@ defaults:
     type: posts
   values:
     Feature Image: 
+    Contents:
+      '1.0': Section name
+      '1.1': Section name
     Author: Kathryn White
     layout: post
     permalink: "/posts/:title/"
@@ -46,3 +49,4 @@ defaults:
   values:
     Country: 
 permalink: pretty
+markdown: kramdown

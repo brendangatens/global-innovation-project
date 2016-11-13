@@ -5,3 +5,7 @@ imagesLoaded( '#photo-gallery-body', function() {
     percentPosition: true
   });
 });
+
+MediumLightbox('figure.zoom-effect', {
+    margin:40
+});
