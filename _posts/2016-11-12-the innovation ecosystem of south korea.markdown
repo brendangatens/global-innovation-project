@@ -1,6 +1,6 @@
 ---
 title: |-
-  The innovation ecosystem
+  The Innovation Ecosystem
   of South Korea
 date: 2016-11-12 21:19:00 Z
 categories:
