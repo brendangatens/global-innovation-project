@@ -2,16 +2,6 @@
 
 html, body {
 	overflow-x: hidden;
-	margin: 0;
-	font-family: sans-serif;
-	line-height: 20px;
-}
-
-.post{
-	position: relative;
-	max-width:700px;
-	width: 100%;
-	margin: 0 auto;
 }
 
 figure{
@@ -116,7 +106,7 @@ figure.full{
 
 .zoom-effect .zoomOverlay {
 	z-index: 800;
-	background: #fff;
+	background: rgba(26, 26, 26, .5);
 	position: absolute;
 	transition: opacity 300ms;
 	opacity: 0;
