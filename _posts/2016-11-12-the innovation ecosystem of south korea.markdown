@@ -43,10 +43,10 @@ Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras matt
 Sed posuere consectetur est at lobortis. Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam id dolor id nibh ultricies vehicula ut id elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
 
 <figure class="half left zoom-effect">
-    <div class="aspectRatioPlaceholder" >
-        <div class="aspect-ratio-fill" style="padding-bottom: 50%;"></div>
-        <img class="img" data-width="900" data-height="450" src="/uploads/IMG_0537.jpg">
-    </div>
+  <div class="aspectRatioPlaceholder" >
+    <div class="aspect-ratio-fill" style="padding-bottom: 50%;"></div>
+    <img class="img" data-width="900" data-height="450" src="/uploads/IMG_0537.jpg">
+  </div>
 </figure>
 
 Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
