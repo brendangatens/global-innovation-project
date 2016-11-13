@@ -1,5 +1,7 @@
 ---
-title: South Korea Demo Report
+title: |-
+  The innovation ecosystem
+  of South Korea
 date: 2016-11-12 21:19:00 Z
 categories:
 - Report
