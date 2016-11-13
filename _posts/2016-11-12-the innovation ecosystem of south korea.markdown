@@ -47,6 +47,7 @@ Sed posuere consectetur est at lobortis. Vestibulum id ligula porta felis euismo
     <div class="aspect-ratio-fill" style="padding-bottom: 50%;"></div>
     <img class="img" data-width="900" data-height="450" src="/uploads/IMG_0537.jpg">
   </div>
+  <figcaption>This is the caption</figcaption>
 </figure>
 
 Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
