@@ -140,6 +140,6 @@ date: 2016-11-18 13:42:00 Z
 
 **Other stops**
 
-* If you visit Jeonju for the Hanok Village, make sure you don’t miss Jaman Mural Village, which is just 10 minutes’ walk down the road and is utterly charming.
+* If you visit Jeonju for the Hanok Village, make sure you don’t miss **Jaman Mural Village**, which is just 10 minutes’ walk down the road and is utterly charming.
 
-* Gyeongju is a must-see – historic, scenic and delightful!
+* **Gyeongju** is a must-see – historic, scenic and delightful!
