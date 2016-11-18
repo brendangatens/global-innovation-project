@@ -18,43 +18,68 @@ date: 2016-11-18 13:42:00 Z
 
 5. **Pronunciation** can be a bit tricky, even when you know the alphabet, so it’s worth learning with audio, not just with a book.
 
-
 6. My preferred app was **EggBun**, available on iOS (and possible Android, I haven’t checked) – it’s cute and easy to use, although it doesn’t really work offline so that’s worth bearing in mind.
 
-Communication & Navigation
-Wifi is very easy to come by in South Korea – you’ll find free wifi in restaurants and cafes, shopping centres, transport stations, and often on the street (though this is variable). If you’re in a restaurant and don’t see the wifi details anywhere, just try asking your waiter. The easy access to wifi means you can probably get by without buying a local sim card unless you need it for business.
-If you don’t get a sim card, a good tip is to make sure you download maps to your phone (Google Maps allows you to download maps for offline use, as do other apps). If you’re short on storage space to download, then just search for the place you’re going before you leave wifi, star it as a favourite, and leave your maps app open. Google Maps will still track your location without internet, so as long as your maps are loaded, you’re all set.
-If you’re looking for addresses, bear in mind that buildings might not run in number order along a street. Apparently they got numbered in the order they were built, so following number order won’t help you much.
-In Seoul (and in some other cities), larger roads cut the city into a grid of blocks a bit like the American system. However, within these blocks the streets tend to be small and winding, and it’s easy to get lost. They are great fun to wander down, but make sure you keep yourself oriented to the main road so you can find your way back.
+## Communication & Navigation
 
-Food & Drink
-Korean food is delicious and varied. It can be pretty spicy, so if you’re not a spice fan you may need to be a bit careful.
-Restaurants are everywhere and vary in price from very cheap to quite expensive. If you stick to the more tourist-friendly areas of Seoul then most will have either an English menu or pictures, but if you go further out there may only be hangul characters on a board. I don’t think I ever went to a restaurant where the food wasn’t delicious, so I’d recommend just strolling around until somewhere catches your eye rather than bothering with review sites.
-Bills are usually either placed on the table after you order, or kept at the counter. You pay at the till as you leave, not at your table. You don’t need to ask for the bill, just get up and go to the till when you’re ready to go.
-Tipping is not expected in restaurants.
-Banchan are side dishes, served with pretty much every meal. Alongside what you order you will get a free selection of small dishes like kimchee, miso soup, vegetables and little fish. You can also get meals which are pretty much just a huge selection of banchan with some larger dishes like whole fish. In some fast-food style restaurants you may find that banchan are self-service, a bit like a salad bar.
-Water is typically provided free. Often you are given a jug of water on your table, but sometimes it’s self-service from a water cooler. (It is not advisable to drink the tap water).
-Tea is sometimes served instead of water – it is usually served cold and tends to be a barley tea that to me tasted a lot like Weetabix. There are a lot of tea varieties in Korea, and it’s a fun experience to try one of the traditional tea houses (I went by accident, mistaking it for a restaurant!)
-Coffee has become a national obsession (probably because of the American connection) and coffee shops are everywhere. They tend to be relatively pricey but are the only place to sit and hang out with people if you don’t want to drink alcohol or buy a meal. Coffee tends to be combined with cakes, for which there is a similar obsession. You’ll find Starbucks and Dunkin Donuts all over the place.
-Alcohol is usually consumed with food, so you may find that some bars won’t let you just have a drink without ordering some food. Others will give you a snack with your beer (e.g. pretzels).
-The main drink of South Korea is Soju, which is not dissimilar to vodka and is pretty strong. Koreans drink a lot and you’ll often see groups of business colleagues throwing back soju in bars and restaurants (just look for the green bottles). People also drink a lot of beer (mekju). Wine is less common but there are wine bars dotted around.
-One of my favourite drinks in Korea was Makgeoli, which is a cousin of soju that tastes a bit more like sake. It has a milky colour and a slightly sweet flavour. Be careful because it’s deceptively strong!
+7. **Wifi** is very easy to come by in South Korea – you’ll find free wifi in restaurants and cafes, shopping centres, transport stations, and often on the street (though this is variable). If you’re in a restaurant and don’t see the wifi details anywhere, just try asking your waiter. The easy access to wifi means you can probably get by without buying a local sim card unless you need it for business.
 
-Toilets
-Public toilets are everywhere and they are free and usually well looked after. Some of the best are found in the metro stations.
-Most of the public toilets do have toilet paper, but some don’t (especially in places like parks and at attractions) so it’s always a good idea to carry tissue
-Western-style toilets seem to be the norm in most places. You do also get traditional drop-toilets but there are usually also Western toilets – pictures on the door will tell you which is which.
-Japanese-style high-tech toilets are quite popular and can catch you out because you can’t read any of the buttons. However, the flush is actually just a normal handle, so ignore the crazy buttons and look for something familiar near the top of the tank.
+8. If you don’t get a sim card, a good tip is to make sure you **download maps** to your phone (Google Maps allows you to download maps for offline use, as do other apps). If you’re short on storage space to download, then just search for the place you’re going before you leave wifi, star it as a favourite, and leave your maps app open. Google Maps will still track your location without internet, so as long as your maps are loaded, you’re all set.
 
-Transport
-The metro service is typically well maintained, efficient, and easy enough to understand. Seoul has a large metro system, as does Busan. Free maps are available in stations, with English versions usually on offer. You’ll know when the train is arriving because they’ll play a music fanfare over the loudspeaker.\
-The best way to get around is with a reloadable metro card (similar to an Oyster Card in London), but they aren’t so easy to get as you often need to buy one in a small station shop from someone who doesn’t speak English. I got mine by asking in a shop and they fetched the one English-speaker who took me to another shop to buy one (he even bought it for me!). Once you have your card, they are easy to top up with cash at the machines in the stations, which have the option to display instructions in English.
-Metro cards are usable on the metro and the buses, and the same cards can be used in Seoul and Busan (and probably other cities, though I’m not sure)
-Uber wasn’t available when I was in South Korea, so you shouldn’t count on it. Cabs are reasonably priced though and are fair with the fares. However, bear in mind that drivers in South Korea are pretty crazy (see Personal Safety)
-The train network is strongest between Seoul and Busan, and it gets harder to find trains on the East side of the country (the main routes run in a wishbone shape going South and South-East from Seoul). It also gets very difficult to find any train information online once you’ve left Seoul as there aren’t many English translations online. Trains are comfortable and tickets are easy enough to buy from the ticket window. Bear in mind that Seoul has a few different train stations and they are quite large, so make sure you check which one you’re going to and get there earlier enough to find your way around.
-Intercity buses are a very comfortable way to travel, although they can be a little slow. You can get between most cities by bus, but again you will find it hard to get information in English on the bus routes. The best thing is to ask for advice from your hotel reception or Airbnb host, otherwise you’ll need to visit the bus station and see what buses they have and when. Tickets are quite easy to buy at the ticket window, though further from Seoul they may not speak any English. Be careful when you pronounce your destination as there are cities with very similar names (I nearly ended up with a ticket to Gwangju when I wanted to go to Gyeongju) – best to write the name down or point at it on a map to be safe. Some buses will be very clear about rest stops and announce in English when you have a 15-minute stop to pee and buy snacks (this happened to me on a 4-hour direct bus). Others are less clear and if they have multiple stops along the way they will stop at some only for long enough to let people off and on, and others you’ll have time to hop off. Best way to tell you’ve got time is if your driver gets off for a smoke, but make sure he knows you’ve gotten off!
+9. If you’re looking for **addresses**, bear in mind that buildings might not run in number order along a street. Apparently they got numbered in the order they were built, so following number order won’t help you much.
 
-Personal Safety
+10. In Seoul (and in some other cities), larger roads cut the city into a **grid of blocks** a bit like the American system. However, within these blocks the streets tend to be small and winding, and it’s easy to get lost. They are great fun to wander down, but make sure you keep yourself oriented to the main road so you can find your way back.
+
+## Food & Drink
+
+11. **Korean food** is delicious and varied. It can be pretty spicy, so if you’re not a spice fan you may need to be a bit careful.
+
+12. **Restaurants** are everywhere and vary in price from very cheap to quite expensive. If you stick to the more tourist-friendly areas of Seoul then most will have either an English menu or pictures, but if you go further out there may only be hangul characters on a board. I don’t think I ever went to a restaurant where the food wasn’t delicious, so I’d recommend just strolling around until somewhere catches your eye rather than bothering with review sites.
+
+13. **Bills** are usually either placed on the table after you order, or kept at the counter. You pay at the till as you leave, not at your table. You don’t need to ask for the bill, just get up and go to the till when you’re ready to go.
+
+14. **Tipping** is not expected in restaurants.
+
+15. **Banchan** are side dishes, served with pretty much every meal. Alongside what you order you will get a free selection of small dishes like kimchee, miso soup, vegetables and little fish. You can also get meals which are pretty much just a huge selection of banchan with some larger dishes like whole fish. In some fast-food style restaurants you may find that banchan are self-service, a bit like a salad bar.
+
+16. **Water** is typically provided free. Often you are given a jug of water on your table, but sometimes it’s self-service from a water cooler. (It is not advisable to drink the tap water).
+
+17. **Tea** is sometimes served instead of water – it is usually served cold and tends to be a barley tea that to me tasted a lot like Weetabix. There are a lot of tea varieties in Korea, and it’s a fun experience to try one of the traditional tea houses (I went by accident, mistaking it for a restaurant!)
+
+18. **Coffee** has become a national obsession (probably because of the American connection) and coffee shops are everywhere. They tend to be relatively pricey but are the only place to sit and hang out with people if you don’t want to drink alcohol or buy a meal. Coffee tends to be combined with cakes, for which there is a similar obsession. You’ll find Starbucks and Dunkin Donuts all over the place.
+
+19. **Alcohol** is usually consumed with food, so you may find that some bars won’t let you just have a drink without ordering some food. Others will give you a snack with your beer (e.g. pretzels).
+
+20. The main drink of South Korea is **Soju**, which is not dissimilar to vodka and is pretty strong. Koreans drink a lot and you’ll often see groups of business colleagues throwing back soju in bars and restaurants (just look for the green bottles). People also drink a lot of beer (mekju). Wine is less common but there are wine bars dotted around.
+
+21. One of my favourite drinks in Korea was **Makgeoli**, which is a cousin of soju that tastes a bit more like sake. It has a milky colour and a slightly sweet flavour. Be careful because it’s deceptively strong!
+
+## Toilets
+
+22. **Public toilets** are everywhere and they are free and usually well looked after. Some of the best are found in the metro stations.
+
+23.Most of the public toilets do have **toilet paper**, but some don’t (especially in places like parks and at attractions) so it’s always a good idea to carry tissue
+
+24. **Western-style toilets** seem to be the norm in most places. You do also get traditional drop-toilets but there are usually also Western toilets – pictures on the door will tell you which is which.
+
+25. **Japanese-style high-tech toilets** are quite popular and can catch you out because you can’t read any of the buttons. However, the flush is actually just a normal handle, so ignore the crazy buttons and look for something familiar near the top of the tank.
+
+## Transport
+
+26. The **metro** service is typically well maintained, efficient, and easy enough to understand. Seoul has a large metro system, as does Busan. Free maps are available in stations, with English versions usually on offer. You’ll know when the train is arriving because they’ll play a music fanfare over the loudspeaker.
+
+27. The best way to get around is with a **reloadable metro card** (similar to an Oyster Card in London), but they aren’t so easy to get as you often need to buy one in a small station shop from someone who doesn’t speak English. I got mine by asking in a shop and they fetched the one English-speaker who took me to another shop to buy one (he even bought it for me!). Once you have your card, they are easy to top up with cash at the machines in the stations, which have the option to display instructions in English.
+
+28. Metro cards are usable on the **metro and the buses**, and the same cards can be used in Seoul and Busan (and probably other cities, though I’m not sure).
+
+29. **Uber** wasn’t available when I was in South Korea, so you shouldn’t count on it. Cabs are reasonably priced though and are fair with the fares. However, bear in mind that drivers in South Korea are pretty crazy (see Personal Safety)
+
+30. The **train network** is strongest between Seoul and Busan, and it gets harder to find trains on the East side of the country (the main routes run in a wishbone shape going South and South-East from Seoul). It also gets very difficult to find any train information online once you’ve left Seoul as there aren’t many English translations online. Trains are comfortable and tickets are easy enough to buy from the ticket window. Bear in mind that Seoul has a few different train stations and they are quite large, so make sure you check which one you’re going to and get there earlier enough to find your way around.
+
+31. **Intercity buses** are a very comfortable way to travel, although they can be a little slow. You can get between most cities by bus, but again you will find it hard to get information in English on the bus routes. The best thing is to ask for advice from your hotel reception or Airbnb host, otherwise you’ll need to visit the bus station and see what buses they have and when. Tickets are quite easy to buy at the ticket window, though further from Seoul they may not speak any English. Be careful when you pronounce your destination as there are cities with very similar names (I nearly ended up with a ticket to Gwangju when I wanted to go to Gyeongju) – best to write the name down or point at it on a map to be safe. Some buses will be very clear about rest stops and announce in English when you have a 15-minute stop to pee and buy snacks (this happened to me on a 4-hour direct bus). Others are less clear and if they have multiple stops along the way they will stop at some only for long enough to let people off and on, and others you’ll have time to hop off. Best way to tell you’ve got time is if your driver gets off for a smoke, but make sure he knows you’ve gotten off!
+
+## Personal Safety
+
 I have never felt so personally safe as I did in South Korea. People are generally respectful and law-abiding and you just don’t get any sense of danger walking on the streets, even late at night. Prices of goods aren’t jacked up for foreigners and taxi drivers don’t try to hide the meter. You don’t have to worry too much about your belongings – if you left your phone on the counter in a bar, you’d probably go back and find it exactly where you left it.
 The one place of real danger in South Korea is the roads. I don’t exaggerate when I say the drivers are crazy. Avoid pedestrian crossings with no lights – drivers will not stop for them; they often won’t even stop for the ones with lights. People will sail through intersections after the lights change, with perhaps a honk of the horn to let people know. Watch out for mopeds driving on the pavements and cars turning onto crossings. As I mentioned in point 10, there are a lot of small windy roads, so be especially careful on these as you may have to duck between parked vehicles to escape the cars.
 
