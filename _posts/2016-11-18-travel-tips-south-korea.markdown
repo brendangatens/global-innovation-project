@@ -3,7 +3,7 @@ title: 'Travel Tips: South Korea'
 date: 2016-11-18 13:42:00 Z
 ---
 
-## Language
+## Language 
 
 1. It’s well worth learning the Korean alphabet (**hangul**) – it’s not difficult and is pretty fun. There are 30 letters (19 consonants, 21 vowels), but many of the vowels are combination vowels and five of the consonants are just doubled-up (kk, tt), so there’s not much to remember. Letters are arranged into blocks to form syllables. Learn the alphabet and you’ll know how to pronounce any word you see (especially useful for reading place names).
 
