@@ -46,19 +46,19 @@ date: 2016-11-18 13:42:00 Z
 
 17. **Tea** is sometimes served instead of water – it is usually served cold and tends to be a barley tea that to me tasted a lot like Weetabix. There are a lot of tea varieties in Korea, and it’s a fun experience to try one of the traditional tea houses (I went by accident, mistaking it for a restaurant!)
 
- 8. **Coffee** has become a national obsession (probably because of the American connection) and coffee shops are everywhere. They tend to be relatively pricey but are the only place to sit and hang out with people if you don’t want to drink alcohol or buy a meal. Coffee tends to be combined with cakes, for which there is a similar obsession. You’ll find Starbucks and Dunkin Donuts all over the place.
+18. **Coffee** has become a national obsession (probably because of the American connection) and coffee shops are everywhere. They tend to be relatively pricey but are the only place to sit and hang out with people if you don’t want to drink alcohol or buy a meal. Coffee tends to be combined with cakes, for which there is a similar obsession. You’ll find Starbucks and Dunkin Donuts all over the place.
 
- 9. **Alcohol** is usually consumed with food, so you may find that some bars won’t let you just have a drink without ordering some food. Others will give you a snack with your beer (e.g. pretzels).
+19. **Alcohol** is usually consumed with food, so you may find that some bars won’t let you just have a drink without ordering some food. Others will give you a snack with your beer (e.g. pretzels).
 
-10. The main drink of South Korea is **Soju**, which is not dissimilar to vodka and is pretty strong. Koreans drink a lot and you’ll often see groups of business colleagues throwing back soju in bars and restaurants (just look for the green bottles). People also drink a lot of beer (mekju). Wine is less common but there are wine bars dotted around.
+20. The main drink of South Korea is **Soju**, which is not dissimilar to vodka and is pretty strong. Koreans drink a lot and you’ll often see groups of business colleagues throwing back soju in bars and restaurants (just look for the green bottles). People also drink a lot of beer (mekju). Wine is less common but there are wine bars dotted around.
 
-11. One of my favourite drinks in Korea was **Makgeoli**, which is a cousin of soju that tastes a bit more like sake. It has a milky colour and a slightly sweet flavour. Be careful because it’s deceptively strong!
+21. One of my favourite drinks in Korea was **Makgeoli**, which is a cousin of soju that tastes a bit more like sake. It has a milky colour and a slightly sweet flavour. Be careful because it’s deceptively strong!
 
 ## Toilets
 
-1. **Public toilets** are everywhere and they are free and usually well looked after. Some of the best are found in the metro stations.
+22. **Public toilets** are everywhere and they are free and usually well looked after. Some of the best are found in the metro stations.
 
-23\.Most of the public toilets do have **toilet paper**, but some don’t (especially in places like parks and at attractions) so it’s always a good idea to carry tissue
+23. Most of the public toilets do have **toilet paper**, but some don’t (especially in places like parks and at attractions) so it’s always a good idea to carry tissue
 
 1. **Western-style toilets** seem to be the norm in most places. You do also get traditional drop-toilets but there are usually also Western toilets – pictures on the door will tell you which is which.
 
