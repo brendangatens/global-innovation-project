@@ -84,37 +84,59 @@ date: 2016-11-18 13:42:00 Z
 
 33. The one place of real danger in South Korea is the **roads**. I don’t exaggerate when I say the drivers are crazy. Avoid pedestrian crossings with no lights – drivers will not stop for them; they often won’t even stop for the ones with lights. People will sail through intersections after the lights change, with perhaps a honk of the horn to let people know. Watch out for mopeds driving on the pavements and cars turning onto crossings. As I mentioned in point 10, there are a lot of small windy roads, so be especially careful on these as you may have to duck between parked vehicles to escape the cars.
 
-Money
-The currency is the Korean Won, which takes a little getting used to because of the ridiculous numbers involved. 10,000 KRW is only around 8 USD (at the time of my visit), so trying to convert prices is pretty tricky. Often items in shops show the prices without the ‘000’ (e.g. 10- instead of 10,000), and that’s the best thing to do in your own head too to simplify things. Notes come in 1000, 2000, 5000 and 10,000 denominations, and then coins for 500, 100 and 50 won (I didn’t see anything smaller than 50)
-Also tricky is the number system – while we speak of large numbers in terms of thousands, they tend to work in terms of ten-thousands (‘Man’ = 10,000 in Korean)
-You can pay by card almost everywhere, although some hostels will only take cash payments, so it’s definitely worth having a supply of cash.
+## Money
 
-Shopping
-Shopping in South Korea isn’t particularly cheap, but it usually isn’t outrageously expensive either. It’s a nation that loves to shop, so you can find pretty much anything. They have a lot of Western brands, including an abundance of 7-Elevens and CVS stores (called C4U).
-Thanks to Korea’s supersized companies like Lotte and Samsung, they have a lot of gigantic malls. In fact, Busan boasts the world’s largest shopping centre, Shinsegae Centum City.
-Underground metro stations can be a good place to find smaller, more basic stores, typically selling things like cheap underwear, purses and phone cases.
-If you are a fashion lover with money to burn, you’ll find all of the designer stores lined up neatly on Gangnam’s ‘Fashion Street’, each with their own specially-designed building.
-The beauty industry is very successful and Korean beauty products are becoming world famous, so worth checking out if that’s a passion of yours.
-South Korea has a wonderful selection of charming souvenirs if you want something to take home. One of the easiest places to pick up art and knick-knacks in Seoul is Insa-dong, a street lined with interesting shops and street food stands. In Busan, Gamcheon Culture Village is a great place for souvenirs.
-Shops in art galleries sell some really wonderful items, and aren’t as overpriced as these kinds of stores can be in other countries.
-Haggling isn’t common, but you can always give it a go if you’re at a market.
+34. The currency is the **Korean Won**, which takes a little getting used to because of the ridiculous numbers involved. 10,000 KRW is only around 8 USD (at the time of my visit), so trying to convert prices is pretty tricky. Often items in shops show the prices without the ‘000’ (e.g. 10- instead of 10,000), and that’s the best thing to do in your own head too to simplify things. Notes come in 1000, 2000, 5000 and 10,000 denominations, and then coins for 500, 100 and 50 won (I didn’t see anything smaller than 50)
 
-Places to Stay
-I have a budget to stick to, so can’t advise on nice hotels – for travelling on a budget I rely on Airbnb and Booking.com. I always book accommodation in advance, because I want to know where I’m going with my bags. However, it didn’t look like it would be a problem to book on the day, though October wasn’t peak season.
-Airbnb has pretty good coverage in South Korea. I stayed in Airbnbs in Busan and Gyeongju and both were great (one was a whole apartment and one was a guesthouse). Some less touristy cities, like Donghae, have fewer options available.
-Most cities have a good selection of cheaper hostels – you can get a single room quite cheap though it may be very small, and if you’re willing to stay in a dorm room that will be your cheapest option. I stayed at the Kimchee Guesthouse in Gangnam, and they have a few different location across the city. Most of the hostels only took payment in cash, so bear that in mind – Airbnb is the best way to guarantee you can pay by card.
-The only city where I had trouble getting cheap accommodation was Donghae, so if you’re going there for the ferry you might want to consider staying somewhere else nearby. The hotel I stayed in was both the most expensive and least pleasant place I stayed in my entire trip.
-If you want a traditional experience then look out for a hanok, the traditional wooden Korean home. For the full experience you’ll sleep on mats on a heated floor. Jeonju Hanok Village is a charming but touristy place to visit with the largest collection of these homes (most hanoks in the country were knocked down in favour of monotonous modern apartment blocks).
-Korean beds tend to be very hard (or you’re on a mat on the floor), so bear this in mind if you prefer a softer mattress.
+35. Also tricky is the number system – while we speak of large numbers in terms of thousands, they tend to work in terms of **ten-thousands** (‘Man’ = 10,000 in Korean).
 
-Sight-seeing
-Seoul
-Seoul has a wonderful collection of historic palaces to visit. Gyeongbokgung is the largest of these but I preferred the slightly smaller Changdeokgung, with its beautiful gardens (which requires an extra ticket for timed tours). Changdeokgung has more original architecture, whereas Gyeongbokgung is mostly reconstructed.
-The contemporary art scene is wonderful in South Korea, and if you want a really unique modern art experience I strongly recommend Arario Museum in Space in Seoul (conveniently just round the corner from Changdeokgung)
+36. You can **pay by card** almost everywhere, although some hostels will only take cash payments, so it’s definitely worth having a supply of cash.
 
-Busan
-If you go to Busan (South Korea’s second largest city), take a trip to Gamcheon Culture Village (read this post for more info - www.global-innovation-project.com/posts/innovation-from-unexpected-sources/)
-Another fun Busan activity is to ride the cable car in Geumgang Park, which is a great start point for some hikes if you’re the active type.
+## Shopping
+
+37. Shopping in South Korea isn’t particularly cheap, but it usually isn’t outrageously expensive either. It’s a nation that loves to shop, so you can find pretty much anything. They have a lot of **Western brands**, including an abundance of 7-Elevens and CVS stores (called C4U).
+
+38. Thanks to Korea’s supersized companies like Lotte and Samsung, they have a lot of gigantic malls. In fact, Busan boasts the **world’s largest shopping centre**, Shinsegae Centum City.
+
+39. Underground **metro stations** can be a good place to find smaller, more basic stores, typically selling things like cheap underwear, purses and phone cases.
+
+40. If you are a fashion lover with money to burn, you’ll find all of the designer stores lined up neatly on **Gangnam’s ‘Fashion Street’**, each with their own specially-designed building.
+
+41. The beauty industry is very successful and Korean **beauty products** are becoming world famous, so worth checking out if that’s a passion of yours.
+
+42. South Korea has a wonderful selection of charming **souvenirs** if you want something to take home. One of the easiest places to pick up art and knick-knacks in Seoul is Insa-dong, a street lined with interesting shops and street food stands. In Busan, Gamcheon Culture Village is a great place for souvenirs.
+
+43. **Shops in art galleries** sell some really wonderful items, and aren’t as overpriced as these kinds of stores can be in other countries.
+
+44. **Haggling** isn’t common, but you can always give it a go if you’re at a market.
+
+## Places to Stay
+
+45. I have a budget to stick to, so can’t advise on nice hotels – for **travelling on a budget** I rely on Airbnb and Booking.com. I always book accommodation in advance, because I want to know where I’m going with my bags. However, it didn’t look like it would be a problem to book on the day, though October wasn’t peak season.
+
+46. **Airbnb** has pretty good coverage in South Korea. I stayed in Airbnbs in Busan and Gyeongju and both were great (one was a whole apartment and one was a guesthouse). Some less touristy cities, like Donghae, have fewer options available.
+
+47. Most cities have a good selection of cheaper **hostels** – you can get a single room quite cheap though it may be very small, and if you’re willing to stay in a dorm room that will be your cheapest option. I stayed at the Kimchee Guesthouse in Gangnam, and they have a few different location across the city. Most of the hostels only took payment in cash, so bear that in mind – Airbnb is the best way to guarantee you can pay by card.
+
+48. The only city where I had trouble getting cheap accommodation was **Donghae**, so if you’re going there for the ferry you might want to consider staying somewhere else nearby. The hotel I stayed in was both the most expensive and least pleasant place I stayed in my entire trip.
+
+49. If you want a traditional experience then look out for a **hanok**, the traditional wooden Korean home. For the full experience you’ll sleep on mats on a heated floor. Jeonju Hanok Village is a charming but touristy place to visit with the largest collection of these homes (most hanoks in the country were knocked down in favour of monotonous modern apartment blocks).
+
+50. **Korean beds** tend to be very hard (or you’re on a mat on the floor), so bear this in mind if you prefer a softer mattress.
+
+## Sight-seeing
+
+**Seoul**
+
+51. Seoul has a wonderful collection of **historic palaces** to visit. Gyeongbokgung is the largest of these but I preferred the slightly smaller Changdeokgung, with its beautiful gardens (which requires an extra ticket for timed tours). Changdeokgung has more original architecture, whereas Gyeongbokgung is mostly reconstructed.
+
+52. The **contemporary art** scene is wonderful in South Korea, and if you want a really unique modern art experience I strongly recommend Arario Museum in Space in Seoul (conveniently just round the corner from Changdeokgung)
+
+**Busan**
+
+53. If you go to Busan (South Korea’s second largest city), take a trip to **Gamcheon Culture Village** (read this post for more info - www.global-innovation-project.com/posts/innovation-from-unexpected-sources/)
+
+54. Another fun Busan activity is to ride the **cable car in Geumgang Park**, which is a great start point for some hikes if you’re the active type.
 
 Other stops
 If you visit Jeonju for the Hanok Village, make sure you don’t miss Jaman Mural Village, which is just 10 minutes’ walk down the road and is utterly charming.
