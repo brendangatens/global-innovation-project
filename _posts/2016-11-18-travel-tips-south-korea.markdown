@@ -6,22 +6,18 @@ date: 2016-11-18 13:42:00 Z
 ## Language
 
 1. It’s well worth learning the Korean alphabet (**hangul**) – it’s not difficult and is pretty fun. There are 30 letters (19 consonants, 21 vowels), but many of the vowels are combination vowels and five of the consonants are just doubled-up (kk, tt), so there’s not much to remember. Letters are arranged into blocks to form syllables. Learn the alphabet and you’ll know how to pronounce any word you see (especially useful for reading place names).
-   
 
 2. **Basic vocab** (written in unofficial phonetics):
    Greeting – An-Yong Ha-Say-Yo
    Thank you – Kam-Sa-Ham-Ni-Da
    Please give me – Ju-Say-Yo (put the item you want first e.g. “Mek-Ju Ju-Say-Yo” = “Please give me a beer”)
-   
 
 3. **Numbers** – there are two different number systems in Korea, the Korean numbers and the Sino-Korean numbers (influenced by Chinese language). The Sino-Korean are used for things like prices, while the Korean are used for numbers of things (e.g. one banana or three apples). I won’t list them here, but it’s worth trying to learn them if you have time.
-   
 
-4. **Politeness **– A particular feature of the Korean language is different endings for different situations, and for different levels of politeness. As a foreigner this won’t greatly affect you unless you really want to get into the language or you’re doing business here and want to make a good impression.
-   
+4. **Politeness** – A particular feature of the Korean language is different endings for different situations, and for different levels of politeness. As a foreigner this won’t greatly affect you unless you really want to get into the language or you’re doing business here and want to make a good impression.
 
 5. **Pronunciation** can be a bit tricky, even when you know the alphabet, so it’s worth learning with audio, not just with a book.
-   
+
 
 6. My preferred app was **EggBun**, available on iOS (and possible Android, I haven’t checked) – it’s cute and easy to use, although it doesn’t really work offline so that’s worth bearing in mind.
 
