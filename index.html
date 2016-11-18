@@ -55,15 +55,21 @@ layout: default
   </div>
 
   <div class="row">
+    <div class="col-md-2">
+      <h4>Posts</h4>
+    </div>
 
-    <div class="col-md-4 push-md-8">
+    <div class="col-md-10">
       <div class="post-list">
-        <h4>Posts</h4>
         {% for post in site.posts %}
           {% if post.categories contains 'Report' %}
           {% else if %}
             <div class="post-item">
               <a href="{{ post.url }}">
+                {% if post['Feature Image'] %}
+                <div class="post-feature-image" style="background-image:url({{ post['Feature Image'] }})">
+                </div>
+                {% endif %}
                 <h3>{{ post.title }}</h3>
                 <p class="post-date">{{ post.date | date: '%d %B, %Y' }}</p>
               </a>
@@ -71,14 +77,6 @@ layout: default
           {% endif %}
         {% endfor %}
       </div>
-    </div>
-
-    <div class="col-md-7 pull-md-4">
-      {% for page in site.pages %}
-        {% if page.title == 'Project Overview' %}
-          {{ page.content | markdownify }}
-        {% endif %}
-      {% endfor %}
     </div>
 
   </div>

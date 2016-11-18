@@ -37,6 +37,13 @@ img {
   }
 }
 
+.post-feature-image {
+  width: 100%;
+  height: 240px;
+  background-position: center center;
+  background-size: cover;
+}
+
 .post {
   img {
     margin: 10px 0;
