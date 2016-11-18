@@ -20,7 +20,7 @@ date: 2016-11-18 13:42:00 Z
 
 6. My preferred app was **EggBun**, available on iOS (and possible Android, I haven’t checked) – it’s cute and easy to use, although it doesn’t really work offline so that’s worth bearing in mind.
 
-## Communication & Navigation
+ ## Communication & Navigation
 
 7. **Wifi** is very easy to come by in South Korea – you’ll find free wifi in restaurants and cafes, shopping centres, transport stations, and often on the street (though this is variable). If you’re in a restaurant and don’t see the wifi details anywhere, just try asking your waiter. The easy access to wifi means you can probably get by without buying a local sim card unless you need it for business.
 
