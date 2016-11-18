@@ -44,7 +44,7 @@ date: 2016-11-18 13:42:00 Z
 
 16. **Water** is typically provided free. Often you are given a jug of water on your table, but sometimes it’s self-service from a water cooler. (It is not advisable to drink the tap water).
 
- 7. **Tea** is sometimes served instead of water – it is usually served cold and tends to be a barley tea that to me tasted a lot like Weetabix. There are a lot of tea varieties in Korea, and it’s a fun experience to try one of the traditional tea houses (I went by accident, mistaking it for a restaurant!)
+17. **Tea** is sometimes served instead of water – it is usually served cold and tends to be a barley tea that to me tasted a lot like Weetabix. There are a lot of tea varieties in Korea, and it’s a fun experience to try one of the traditional tea houses (I went by accident, mistaking it for a restaurant!)
 
  8. **Coffee** has become a national obsession (probably because of the American connection) and coffee shops are everywhere. They tend to be relatively pricey but are the only place to sit and hang out with people if you don’t want to drink alcohol or buy a meal. Coffee tends to be combined with cakes, for which there is a similar obsession. You’ll find Starbucks and Dunkin Donuts all over the place.
 
