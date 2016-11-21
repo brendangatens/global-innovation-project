@@ -179,7 +179,18 @@ img {
     font-size: 14px;
     .nav-link {
       padding-top: 16px;
-      font-weight: 400;
+      font-weight: 500;
+    }
+    .nav-item + .nav-item {
+      margin-left: 1.25rem;
+    }
+    .social-links {
+      .nav-item {
+        font-size: 20px;
+      }
+      .nav-item + .nav-item {
+        margin-left: .65rem;
+      }
     }
   }
   @include media-breakpoint-up(xl) {
