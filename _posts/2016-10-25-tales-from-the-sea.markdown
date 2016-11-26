@@ -6,6 +6,7 @@ categories:
 tags:
 - South Korea
 - Travel
+Feature Image: "/uploads/IMG_0519.jpg"
 ---
 
 I’m trying to work, but it’s difficult when the boat keeps pitching up and landing back down with a crash into the waves. I’ve found a spot by a window, and am trying to master the art of typing without looking down at the keyboard and the screen because it makes me nauseous. And so I try to type while staring resolutely out of the salt-smattered window at the grey waves and the dark mountain backdrop with the thin line of industrial buildings and ubiquitous apartment blocks separating the two. 

@@ -1,6 +1,7 @@
 ---
 title: Innovation from Unexpected Sources
 date: 2016-10-18 11:28:00 Z
+Feature Image: "/uploads/IMG_9675.jpg"
 ---
 
 Too often we equate innovation with technology, but true innovation can come in any form. Today I spent an exhilarating day exploring the narrow twisting streets and winding staircases of Gamcheon Culture Village in Busan, South Korea’s second largest city.

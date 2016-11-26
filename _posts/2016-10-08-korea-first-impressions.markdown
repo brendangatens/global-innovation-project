@@ -4,6 +4,7 @@ date: 2016-10-08 09:10:00 Z
 tags:
 - Seoul
 - South Korea
+Feature Image: "/uploads/FullSizeRender%205.jpg"
 ---
 
 Arriving in Seoul, it’s hard to believe that South Korea isn’t a more popular tourist destination than it is, although I’m sure the tourism trade here will increase just as dramatically as the overall economic fortunes of this miraculous country. Incheon airport does a very efficient job of welcoming you to the country while you pass through its majestic souring architecture, reminiscent of the transport hub of some futuristic robot city.
