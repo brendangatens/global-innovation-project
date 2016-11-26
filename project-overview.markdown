@@ -88,9 +88,15 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 * Russia (Oct 24th - Nov 15th): I will be in Vladivostock Oct 24th - 27th, then flying to Moscow for Oct 28th - Nov 6th (attending the Open Innovations conference at Skolkovo Technopark on Oct 28th), and then in St Petersburg Nov 6th - 14th
 
-**Leg 2 (December 2016 – January 2017):**
+**Leg 2 - EUROPE (December 2016 – January 2017):**
 
-* Europe
+* Helsinki (Nov 29th - Dec 7th): I'll be attending [Slush](http://www.slush.org/) Nov 30th - Dec 1st
+
+* Tallinn (Dec 7th - 14th)
+
+* Riga (Dec 14th - 18th)
+
+* Berlin (Dec 18th - 23rd)
 
 **Leg 3 (February – March 2017):**
 
