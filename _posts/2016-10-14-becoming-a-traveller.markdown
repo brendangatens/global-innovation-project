@@ -7,6 +7,7 @@ tags:
 - South Korea
 - Seoul
 - Travel
+Feature Image: "/uploads/IMG_0931.jpg"
 ---
 
 I am no stranger to travel. When I was just 18, I went to spend a year living in China, working as an English teacher. A few years later, during one long summer break from university, I spent 4 months working in an aquarium in San Francisco. I’ve been to India, Japan, Malaysia, and covered off a fair bit of Europe. However, while I have travelled, I have never before been a ‘traveller’. 
