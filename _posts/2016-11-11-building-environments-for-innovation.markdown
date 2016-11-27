@@ -1,6 +1,7 @@
 ---
 title: Building Environments for Innovation
 date: 2016-11-11 10:46:00 Z
+Feature Image: "/uploads/IMG_0987.jpg"
 ---
 
 *“Special people are special everywhere,”* Katia told me, as I interviewed her in a trendy office in a fashionable part of Moscow. This statement has been on my mind since then. Katia was talking about the ability for people to adapt to succeed in new markets and environments, but it stuck with me as a wider notion. As I have been travelling through different countries with different cultures and meeting people with different backgrounds, there has still been a strong sense of similarity across those who work in the sphere of startups and innovation. The people I’ve met in St Petersburg and Seoul speak in the same ways as those in Silicon Valley. I’m sure this is partly down to the global spread of ideas that the internet has made possible, but I also think it is because these people share a mindset, one that we might call ‘special’, and that mindset is independent of their environment.
