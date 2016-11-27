@@ -1,7 +1,7 @@
 ---
 title: 'Travel Tips: South Korea'
 date: 2016-11-18 13:42:00 Z
-Feature Image: "/uploads/IMG_9207-006f89.jpg"
+Feature Image: "/uploads/IMG_9207-cc51b5.jpg"
 ---
 
 It can be so confusing travelling to a new country and trying to make sense of all the basic practicalities that you take for granted at home. Here I've gathered together a list of practical tips for travelling in South Korea that I learned from my three weeks exploring the country. Expect to see more 'Travel Tips' posts as I continue my travels!
