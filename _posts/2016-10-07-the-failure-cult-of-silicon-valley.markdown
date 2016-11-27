@@ -3,7 +3,7 @@ title: The Failure Cult of Silicon Valley
 date: 2016-10-07 10:17:00 Z
 tags:
 - Silicon Valley
-Feature Image: "/uploads/IMG_9298.jpg"
+Feature Image: "/uploads/IMG_9298-1e8ea7.jpg"
 ---
 
 I’ve lived and worked in Silicon Valley for nearly two years now, having been sent out by my British employer tasked with finding innovative solutions we could use in the company. It’s been a whirlwind two years, starting with a wide-eyed wonder and magpie-like attempts to see and do everything, and progressing to a more mature and selective way of dealing with this complex ecosystem. 
