@@ -19,7 +19,7 @@ The majority of incubator / accelerator programs and other startup support initi
 
 ## Funding
 
-A substantial amount of funding comes from the government, including funds routed through venture capital groups. While the country has a small cabal of ‘unicorns’, the level of exits and IPOs has remained low and this reduces the amount of capital coming from ex-founder angel investors, although some are beginning to re-invest in the ecosystem. Hardware startups are likely to seek use crowdfunding platforms as a funding option, although these platforms are not well-used by the general population.
+A substantial amount of funding comes from the government, including funds routed through venture capital groups. While the country has a small cabal of ‘unicorns’, the level of exits and IPOs has remained low and this reduces the amount of capital coming from ex-founder angel investors, although some are beginning to re-invest in the ecosystem. Hardware startups are likely to use crowdfunding platforms as a funding option, although these platforms are not well-used by the general population.
 
 ## Culture
 
