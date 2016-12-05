@@ -3,6 +3,13 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <meta property="og:title" content="{{ page.title }} — {{ site.title }}" />
+  {% if page['Feature Image'] %}
+    <meta property="og:image" content="{{ page['Feature Image'] }}" />
+  {% elsif %}
+    <meta property="og:image" content="/images/gip.png" />
+  {% endif %}
+
   <title>{{ page.title }} — {{ site.title }}</title>
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
