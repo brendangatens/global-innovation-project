@@ -1,0 +1,52 @@
+---
+title: Global Innovation Project
+timezone: UTC
+collections:
+  cities:
+    title: Cities
+    output: true
+  countries:
+    title: Countries
+    output: true
+  photos:
+    title: Photos
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    Feature Image: 
+    Contents:
+      '1.0': Section name
+      '1.1': Section name
+    Author: Kathryn White
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: photos
+  values:
+    Photo: 
+    Category: 
+    Country: 
+    City: 
+    layout: photo
+- scope:
+    path: ''
+    type: cities
+  values:
+    Country: 
+permalink: pretty
+markdown: kramdown

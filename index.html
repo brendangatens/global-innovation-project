@@ -1,92 +1,22 @@
-<!DOCTYPE html>
-<html>
+---
+title: Global Innovation Project
+layout: default
+---
 
-  <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta property="og:title" content="Global Innovation Project — Global Innovation Project" />
-  
-    <meta property="og:image" content="/images/gip.png" />
-  
-
-  <title>Global Innovation Project — Global Innovation Project</title>
-
-  <link rel="stylesheet" href="/css/main.css">
-  <script src="https://use.fontawesome.com/ed1ec741f0.js"></script>
-</head>
-
-
-  <body>
-
-    <div class="container">
-
-  <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#collapsing-navbar" aria-controls="collapsing-navbar" aria-expanded="false" aria-label="Toggle navigation">&#9776;
-  </button>
-
-  <nav class="navbar navbar-dark">
-
-    <a class="navbar-brand" href="/"><img class="logo" src="/images/gip-logo.png" width="296" height="264"></a>
-    <div class="main-nav">
-
-    <div class="collapse navbar-toggleable-md" id="collapsing-navbar">
-      <ul class="nav navbar-nav">
-        <li class="nav-item">
-          <a class="nav-link" href="/">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/project-overview">About the Project</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/contact">Contact</a>
-        </li>
-      </ul>
-      <ul class="nav navbar-nav pull-lg-right social-links">
-        <li class="nav-item">
-          <a href="https://www.instagram.com/globalinnovationproject/" class="nav-link fa fa-instagram" aria-hidden="true"></a>
-        </li>
-        <li class="nav-item">
-          <a href="https://twitter.com/katjoywhite" class="nav-link fa fa-twitter" aria-hidden="true"></a>
-        </li>
-        <li class="nav-item">
-          <a href="https://www.linkedin.com/in/kathryn-white-12874616" class="nav-link fa fa-linkedin" aria-hidden="true"></a>
-        </li>
-      </ul>
-    </div>
-
-  </nav>
-
-</div>
-
-
-    <div class="home-about">
+<div class="home-about">
 
   <div class="container">
 
     <div class="row">
       <div class="col-md-12">
 
-          
-            
-          
-            
+          {% for page in site.pages %}
+            {% if page.title == 'Home' %}
               <div class="intro">
-                <p>The Global Innovation Project aims to explore how innovation / entrepreneurial ecosystems function in different locations across the world. The central aims are to map out demographics of entrepreneurship in different cities and countries globally, and to identify successful models for fostering innovation in a community.</p>
-
+                {{ page.content | markdownify }}
               </div>
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
-            
-          
+            {% endif %}
+          {% endfor %}
 
         <!-- Begin MailChimp Signup Form -->
         <div class="row">
@@ -133,230 +63,31 @@
 
     <div class="col-md-10">
       <div class="post-list">
-        
-          
-            <a href="/posts/travel-tips-south-korea/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_9207-1e2037.jpg)">
+        {% for post in site.posts %}
+          {% if post.categories contains 'Report' %}
+          {% else if %}
+            <a href="{{ post.url }}" class="post-item">
+              {% if post['Feature Image'] %}
+                <div class="post-feature-image" style="background-image:url({{ post['Feature Image'] }})">
                 </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>Travel Tips: South Korea</h3>
-                  <p class="post-date">18 November, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">It can be so confusing travelling to a new country and trying to make sense of all the basic practicalities that you take for granted at home. Here I’ve gathered together a list of practical tips for travelling in South Korea that I learned from my three weeks exploring the country. Expect to see more ‘Travel Tips’ posts as I continue my travels!
-
-</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/building-environments-for-innovation/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_0987.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>Building Environments for Innovation</h3>
-                  <p class="post-date">11 November, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">“Special people are special everywhere,” Katia told me, as I interviewed her in a trendy office in a fashionable part of Moscow. This statement has been on my mind since then. Katia was talking about the ability for people to adapt to succeed in new markets and environments, but it stuck with me as a wider notion. As I have been travelling through different countries with different cultures and meeting people with different backgrounds, there...</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/embracing-confusion-in-russia/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_1953.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>Embracing Confusion in Russia</h3>
-                  <p class="post-date">04 November, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">I have been in Russia for ten days now, and I have spent the majority of my time somewhere along the spectrum from mild to severe confusion. I spend so much time furrowing my brow and gritting my teeth that I have a persistent headache and nightmares about my teeth falling out. From restaurants, to art galleries, to office buildings, to banks, to train stations, I am bewildered. If you plan on visiting Russia my...</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/the-south-korean-startup-ecosystem-an-overview/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_1442-69d89a.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>The South Korean Startup Ecosystem - An Overview</h3>
-                  <p class="post-date">29 October, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">Having concluded my on-the-ground research in South Korea and moved on to Russia, I wanted to share a snapshot from the report I am compiling on the South Korean Startup Ecosystem. The report will go into detail of all the points raised in this overview.
-
-</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/the-long-tail-of-service-mistakes/" class="post-item">
-              
+              {% else %}
                 <div class="no-feature-image">
                 </div>
-              
+              {% endif %}
               <div class="row">
                 <div class="col-md-5">
-                  <h3>The Long Tail of Service Mistakes</h3>
-                  <p class="post-date">26 October, 2016</p>
+                  <h3>{{ post.title }}</h3>
+                  <p class="post-date">{{ post.date | date: '%d %B, %Y' }}</p>
                 </div>
                 <div class="col-md-7">
-                  <p class="post-excerpt">In a slight diversion from my usual posts on travel and innovation, I want to tell you a story of the knock-on effects of seemingly small acts of poor service.
-
-</p>
+                  <p class="post-excerpt">{{ post.excerpt | strip_html | truncatewords:75 }}</p>
                 </div>
               </div>
             </a>
-          
-        
-          
-            <a href="/posts/tales-from-the-sea/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_0519.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>Tales from the Sea</h3>
-                  <p class="post-date">25 October, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">I’m trying to work, but it’s difficult when the boat keeps pitching up and landing back down with a crash into the waves. I’ve found a spot by a window, and am trying to master the art of typing without looking down at the keyboard and the screen because it makes me nauseous. And so I try to type while staring resolutely out of the salt-smattered window at the grey waves and the dark mountain...</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/innovation-from-unexpected-sources/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_9675.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>Innovation from Unexpected Sources</h3>
-                  <p class="post-date">18 October, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">Too often we equate innovation with technology, but true innovation can come in any form. Today I spent an exhilarating day exploring the narrow twisting streets and winding staircases of Gamcheon Culture Village in Busan, South Korea’s second largest city.
-
-</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/becoming-a-traveller/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_0931.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>Becoming a Traveller</h3>
-                  <p class="post-date">14 October, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">I am no stranger to travel. When I was just 18, I went to spend a year living in China, working as an English teacher. A few years later, during one long summer break from university, I spent 4 months working in an aquarium in San Francisco. I’ve been to India, Japan, Malaysia, and covered off a fair bit of Europe. However, while I have travelled, I have never before been a ‘traveller’.
-
-</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/korea-first-impressions/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/FullSizeRender%205.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>Korea First Impressions</h3>
-                  <p class="post-date">08 October, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">Arriving in Seoul, it’s hard to believe that South Korea isn’t a more popular tourist destination than it is, although I’m sure the tourism trade here will increase just as dramatically as the overall economic fortunes of this miraculous country. Incheon airport does a very efficient job of welcoming you to the country while you pass through its majestic souring architecture, reminiscent of the transport hub of some futuristic robot city.
-
-</p>
-                </div>
-              </div>
-            </a>
-          
-        
-          
-            <a href="/posts/the-failure-cult-of-silicon-valley/" class="post-item">
-              
-                <div class="post-feature-image" style="background-image:url(/uploads/IMG_9298-1e8ea7.jpg)">
-                </div>
-              
-              <div class="row">
-                <div class="col-md-5">
-                  <h3>The Failure Cult of Silicon Valley</h3>
-                  <p class="post-date">07 October, 2016</p>
-                </div>
-                <div class="col-md-7">
-                  <p class="post-excerpt">I’ve lived and worked in Silicon Valley for nearly two years now, having been sent out by my British employer tasked with finding innovative solutions we could use in the company. It’s been a whirlwind two years, starting with a wide-eyed wonder and magpie-like attempts to see and do everything, and progressing to a more mature and selective way of dealing with this complex ecosystem.
-
-</p>
-                </div>
-              </div>
-            </a>
-          
-        
+          {% endif %}
+        {% endfor %}
       </div>
     </div>
 
   </div>
 </div>
-
-
-    <footer>
-</footer>
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.3.1/js/tether.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.4/js/bootstrap.min.js" integrity="sha384-VjEeINv9OSwtWFLAtmc4JCtEJXXBub00gtSnszmspDLCtC0I4z4nqz7rEFbIZLLU" crossorigin="anonymous"></script>
-<script src="https://npmcdn.com/imagesloaded@4.1/imagesloaded.pkgd.min.js"></script>
-<script src="https://unpkg.com/masonry-layout@4.1/dist/masonry.pkgd.min.js"></script>
-<script src="/js/medium-lightbox.js"></script>
-<script src="/js/main.js"></script>
-
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-ga('create', 'UA-86111009-1', 'auto');
-ga('send', 'pageview');
-</script>
-
-
-  </body>
-
-</html>

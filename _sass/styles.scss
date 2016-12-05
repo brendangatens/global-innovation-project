@@ -1,0 +1,323 @@
+html {
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  font-family: 'Sailec', sans-serif;
+  font-weight: 400;
+  padding-bottom: 40px;
+}
+
+p, li {
+  color: darken( $white, 10% );
+  strong {
+    color: $white;
+  }
+}
+
+strong {
+  font-weight: 700;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+.post-types {
+  margin-bottom: 40px;
+  h4 {
+    font-size: 16px;
+  }
+}
+
+.post-list {
+
+}
+
+.post-item {
+  display: block;
+  margin: 0 0 60px 0;
+  transition: all .25s ease;
+  @include media-breakpoint-down(md) {
+    margin: 0 0 40px 0;
+  }
+  h3 {
+    font-size: 16px;
+    color: $white;
+  }
+  .post-date {
+    font-size: 12px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: $default-letter-spacing;
+  }
+  &:hover {
+    h3 {
+      color: $blue;
+      &:after {
+        content: ' →';
+        color: $pink;
+      }
+    }
+    .post-feature-image {
+      &:before {
+        content: '';
+      	position: absolute;
+      	top: 0;
+      	right: 0;
+      	bottom: 0;
+      	left: 0;
+      	background-image: linear-gradient(to bottom right,$blue,$pink);
+      	opacity: .15;
+      }
+    }
+  }
+}
+
+.post-feature-image {
+  position: relative;
+  width: 100%;
+  height: 240px;
+  margin-bottom: 30px;
+  background-position: center center;
+  background-size: cover;
+  @include media-breakpoint-down(md) {
+    height: 180px;
+  }
+}
+
+.no-feature-image {
+  width: 100%;
+  height: 40px;
+  margin-bottom: 60px;
+  background-size: cover;
+  background-position: center center;
+  opacity: .65;
+  @include media-breakpoint-down(md) {
+    height: 24px;
+    margin-bottom: 40px;
+  }
+}
+
+.post-item:nth-of-type(4n+1) {
+  .no-feature-image {
+    background-image: url(../images/hr-1.svg);
+  }
+}
+
+.post-item:nth-of-type(4n+2) {
+  .no-feature-image {
+    background-image: url(../images/hr-2.svg);
+  }
+}
+
+.post-item:nth-of-type(4n+3) {
+  .no-feature-image {
+    background-image: url(../images/hr-3.svg);
+  }
+}
+
+.post-item:nth-of-type(4n+4) {
+  .no-feature-image {
+    background-image: url(../images/hr-4.svg);
+  }
+}
+
+.post-excerpt {
+  font-size: 14px;
+  color: $white;
+  margin-bottom: 0;
+}
+
+.post {
+  img {
+    margin: 10px 0;
+  }
+}
+
+.post-header {
+  border-bottom: 1px solid darken( $white, 75% );
+  margin-bottom: 20px;
+}
+
+.post-meta {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: $default-letter-spacing;
+  color: $blue;
+  span {
+    color: $white;
+  }
+}
+
+.navbar-brand {
+  .logo {
+    width: 200px;
+    height: auto;
+    margin: 40px 0;
+  }
+  @include media-breakpoint-down(md) {
+    width: 100%;
+    .logo {
+      margin-top: 10px;
+    }
+  }
+}
+
+#collapsing-navbar {
+  @include media-breakpoint-up(sm) {
+  }
+  @include media-breakpoint-up(sm) {
+  }
+  @include media-breakpoint-up(lg) {
+    float: right;
+    width: 660px;
+    border-top: 1px solid $white;
+    margin-top: 140px;
+    font-size: 14px;
+    .nav-link {
+      padding-top: 16px;
+      font-weight: 500;
+    }
+    .nav-item + .nav-item {
+      margin-left: 1.25rem;
+    }
+    .social-links {
+      .nav-item {
+        font-size: 20px;
+      }
+      .nav-item + .nav-item {
+        margin-left: .65rem;
+      }
+    }
+  }
+  @include media-breakpoint-up(xl) {
+    width: 860px;
+  }
+  @include media-breakpoint-down(md) {
+    position: fixed;
+    top: 20px;
+    z-index: 100;
+  }
+  .navbar-nav {
+    @include media-breakpoint-down(md) {
+      background-color: #272E38;
+      padding: 20px;
+    }
+  }
+}
+
+.navbar-toggler {
+  color: $blue;
+  position: fixed;
+  top: 20px;
+  right: 10px;
+  z-index: 100;
+}
+
+.south-korea {
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-size: 60px;
+  font-weight: bold;
+  span {
+    display: block;
+  }
+}
+
+
+//////////////////////////////////////////
+////////////////// HOME //////////////////
+//////////////////////////////////////////
+
+
+.home-about {
+  position: relative;
+  background-image: url(../images/mars-dark.jpg);
+  background-size: cover;
+  padding: 60px 0;
+  margin-bottom: 60px;
+  &:before {
+    content: '';
+  	position: absolute;
+  	top: 0;
+  	right: 0;
+  	bottom: 0;
+  	left: 0;
+  	background-image: linear-gradient(to bottom right,$blue,$pink);
+  	opacity: .15;
+  }
+  .intro {
+    margin-bottom: 60px;
+    p {
+      font-size: 24px;
+      font-weight: 300;
+      line-height: 1.5;
+      @include media-breakpoint-up(md) {
+        font-size: 24px;
+      }
+    }
+  }
+}
+
+#mc_embed_signup {
+  h2 {
+    font-size: 15px;
+  }
+  .form-field-and-button {
+    position: relative;
+    width: 100%;
+    height: 48px;
+  }
+  .email {
+    width: 100%;
+    height: 48px;
+    border: none;
+    outline: none;
+    padding-left: 12px;
+    font-size: 15px;
+  }
+}
+
+#mc-embedded-subscribe {
+  position: absolute;
+  top: 9px;
+  right: 9px;
+  background: none;
+  background-color: #000;
+  border: none;
+  padding: 6px 8px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  color: #FFF;
+}
+
+//////////////////////////////////////////
+///////////////// REPORTS ////////////////
+//////////////////////////////////////////
+
+
+.table-of-contents {
+  li {
+    a {
+      font-size: 13px;
+      font-weight: 500;
+      b {
+        color: $white;
+      }
+    }
+    .section-head {
+      font-size: 12px;
+      font-weight: 700;
+      color: #666666;
+      text-transform: uppercase;
+      letter-spacing: .075em;
+    }
+  }
+}
