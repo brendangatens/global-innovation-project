@@ -5,8 +5,6 @@ position: 3
 layout: contact
 ---
 
-Contact me at: [kat@global-innovation-project.com](mailto:kat@global-innovation-project.com)
-
 [Kathryn White on LinkedIn](https://www.linkedin.com/in/kathryn-white-12874616)
 
 Follow the project [on Twitter](https://twitter.com/gip_updates) for notifications of new posts
