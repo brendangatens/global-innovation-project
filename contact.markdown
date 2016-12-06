@@ -5,6 +5,4 @@ position: 3
 layout: contact
 ---
 
-[Kathryn White on LinkedIn](https://www.linkedin.com/in/kathryn-white-12874616)
-
 Follow the project [on Twitter](https://twitter.com/gip_updates) for notifications of new posts
