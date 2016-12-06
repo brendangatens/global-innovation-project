@@ -3,7 +3,7 @@ title: The Russian Startup Ecosystem - An Overview
 date: 2016-12-06 11:13:00 Z
 ---
 
-*This is a brief overview of the startup ecosystem in the Russian Federation, with insights gathered from three weeks spent in Vladivostok, Moscow and St Petersburg and around 20 interviews with startups, accelerators, government groups, universities and others. More in depth finding will be detailed in the full report.*
+*This is a brief overview of the startup ecosystem in the Russian Federation, with insights gathered from three weeks spent in Vladivostok, Moscow and St Petersburg and around 20 interviews with startups, accelerators, government groups, universities and others. More in depth findings will be detailed in the full report.*
 
 The Russian startup ecosystem has been slowly building over the past ten years, with a noticeable increase in activity in the past 3-4 years. The government has been a key driver in many areas of activity, and as befits the tendencies of the Russian government, many of the schemes have been grand and ambitious. The most notable of these is the Skolkovo project, which aims to build an entirely new ‘Innovation City’ just outside of Moscow, complete with top tier university, accelerator labs, and all of the housing and infrastructure to sustain a sizeable community. The Skolkovo site also houses corporate innovation groups from Russian organisations like Sberbank and international groups like Boeing. The project was begun in 2006 and is finally starting to come together after experiencing stumbling development through the economic difficulties of the past decade.
 
