@@ -1,6 +1,9 @@
 ---
 title: The Russian Startup Ecosystem - An Overview
 date: 2016-12-06 11:13:00 Z
+tags:
+- innovation
+- Russia
 Feature Image: "/uploads/IMG_0881.jpg"
 ---
 
