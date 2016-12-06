@@ -7,8 +7,9 @@
   {% if page['Feature Image'] %}
     <meta property="og:image" content="http://www.global-innovation-project.com{{ page['Feature Image'] }}" />
   {% else %}
-    <meta property="og:image" content="/images/gip.png" />
+    <meta property="og:image" content="http://www.global-innovation-project.com/images/gip.png" />
   {% endif %}
+  <meta property="og:url" content="{{ page.url }}" />
 
   <title>{{ page.title }} — {{ site.title }}</title>
 
