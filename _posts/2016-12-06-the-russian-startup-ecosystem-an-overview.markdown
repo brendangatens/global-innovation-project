@@ -1,10 +1,11 @@
 ---
 title: The Russian Startup Ecosystem - An Overview
 date: 2016-12-06 11:13:00 Z
+tags:
+- innovation
+- Russia
 Feature Image: "/uploads/IMG_0881.jpg"
 ---
-
-*This is a brief overview of the startup ecosystem in the Russian Federation, with insights gathered from three weeks spent in Vladivostok, Moscow and St Petersburg and around 20 interviews with startups, accelerators, government groups, universities and others. More in depth findings will be detailed in the full report.*
 
 The Russian startup ecosystem has been slowly building over the past ten years, with a noticeable increase in activity in the past 3-4 years. The government has been a key driver in many areas of activity, and as befits the tendencies of the Russian government, many of the schemes have been grand and ambitious. The most notable of these is the Skolkovo project, which aims to build an entirely new ‘Innovation City’ just outside of Moscow, complete with top tier university, accelerator labs, and all of the housing and infrastructure to sustain a sizeable community. The Skolkovo site also houses corporate innovation groups from Russian organisations like Sberbank and international groups like Boeing. The project was begun in 2006 and is finally starting to come together after experiencing stumbling development through the economic difficulties of the past decade.
 
@@ -39,3 +40,6 @@ This history has also meant that diversity is not a key consideration within the
 
 ## Challenges and Opportunities
 Alongside these cultural aspects, there are clear strengths and weaknesses in the typical skillsets of startup founders in the Federation. Russians have long been known for their scientific prowess, but they are now realising that great inventions do not necessarily make marketable innovations. While there is a strong scientific community and the historic and environmental difficulties of living in Russia have made the people into consummate problem solvers, the scientists are often too attached to traditional methods and the problem solvers struggle to identify the right problems to solve. Russians have the advantage of being well-developed in several of the cornerstones for innovation, but now they need to build up their market understanding in order to turn great ideas into successful businesses. If they can jump these hurdles, then it is likely that we will see an increasing number of Russian startups making waves with their scientific solutions in the global markets in coming years. 
+
+
+*Note: This is a brief overview of the startup ecosystem in the Russian Federation, with insights gathered from three weeks spent in Vladivostok, Moscow and St Petersburg and around 20 interviews with startups, accelerators, government groups, universities and others. More in depth findings will be detailed in the full report.*
