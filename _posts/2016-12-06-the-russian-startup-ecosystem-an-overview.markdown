@@ -1,6 +1,7 @@
 ---
 title: The Russian Startup Ecosystem - An Overview
 date: 2016-12-06 11:13:00 Z
+Feature Image: "/uploads/IMG_0881.jpg"
 ---
 
 *This is a brief overview of the startup ecosystem in the Russian Federation, with insights gathered from three weeks spent in Vladivostok, Moscow and St Petersburg and around 20 interviews with startups, accelerators, government groups, universities and others. More in depth findings will be detailed in the full report.*
