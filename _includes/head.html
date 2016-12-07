@@ -3,13 +3,24 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <meta property="og:title" content="{{ page.title }} — {{ site.title }}" />
+  <meta property="og:title" content="{{ page.title }}" />
   {% if page['Feature Image'] %}
     <meta property="og:image" content="http://www.global-innovation-project.com{{ page['Feature Image'] }}" />
   {% else %}
     <meta property="og:image" content="http://www.global-innovation-project.com/images/gip.png" />
   {% endif %}
   <meta property="og:url" content="{{ page.url }}" />
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@gip_updates">
+  <meta name="twitter:creator" content="@KatJoyWhite">
+  <meta name="twitter:title" content="{{ page.title }}">
+  <meta name="twitter:description" content="{{ page.excerpt | strip_html }}">
+  {% if page['Feature Image'] %}
+    <meta name="twitter:image" content="http://www.global-innovation-project.com{{ page['Feature Image'] }}" />
+  {% else %}
+    <meta name="twitter:image" content="http://www.global-innovation-project.com/images/gip.png" />
+  {% endif %}
 
   <title>{{ page.title }} — {{ site.title }}</title>
 
