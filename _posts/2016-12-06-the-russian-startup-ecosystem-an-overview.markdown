@@ -43,4 +43,6 @@ Alongside these cultural aspects, there are clear strengths and weaknesses in th
 
 UPDATE: It was only after reading a tweet from my good friend Roger Strukoff of [Tau Institute](http://www.tauinstitute.org/) that it occurred to me that I wrote an entire overview of the Russian ecosystem without once mentioning Putin. This post is only a brief snapshot of my research, but it's interesting that he didn't come to my mind as I tried to sum up my learnings about the ecosystem. Of course he came up in conversation, but not as often as you would think, and really there were only two prevailing points of view: one set was adamant that the ecosystem could never thrive under the current political leadership, while others didn't seem bothered and just got on with things (a very Russian thing to do). As for myself, I am in the middle of reading various texts on Putin to get a proper handle on the man and his government before I form my own opinion. 
 
+<hr>
+
 *Note: This is a brief overview of the startup ecosystem in the Russian Federation, with insights gathered from three weeks spent in Vladivostok, Moscow and St Petersburg, including around 20 interviews with startups, accelerators, government groups, universities, investors and others and attendance to conferences and meetups. More in depth findings will be detailed in the full report.*
