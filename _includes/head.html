@@ -15,6 +15,15 @@
   <meta name="twitter:site" content="@gip_updates">
   <meta name="twitter:creator" content="@KatJoyWhite">
   <meta name="twitter:title" content="{{ page.title }}">
+  {% if page.excerpt %}
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html | xml_escape | truncate: 200 }}">
+  {% else %}
+    {% for page in site.pages %}
+      {% if page.title == 'Home' %}
+        <meta name="twitter:description" content="{{ page.content | strip_html }}">
+      {% endif %}
+    {% endfor %}
+  {% endif %}
   {% if page['Feature Image'] %}
     <meta name="twitter:image" content="http://www.global-innovation-project.com{{ page['Feature Image'] }}" />
   {% else %}
