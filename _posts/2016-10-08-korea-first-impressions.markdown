@@ -9,7 +9,7 @@ Feature Image: "/uploads/FullSizeRender%205.jpg"
 
 Arriving in Seoul, it’s hard to believe that South Korea isn’t a more popular tourist destination than it is, although I’m sure the tourism trade here will increase just as dramatically as the overall economic fortunes of this miraculous country. Incheon airport does a very efficient job of welcoming you to the country while you pass through its majestic souring architecture, reminiscent of the transport hub of some futuristic robot city.
 
-![IMG_0934.jpg](/uploads/IMG_0934.jpg)
+![Seoul airport](/uploads/IMG_0934.jpg)
 
 I’ve only been in the city 12 hours (3 of those asleep), but I’m already captivated by its unique charms. I’m no stranger to Asia, having visited Japan and Malaysia and spent a year living in China, and one of the things I love most is the immense variety between countries with so much shared culture and history. I’ve been reading up on the fascinating history of South Korea and the values and beliefs which shape the country (in education, building strong relationships, and a singular determination in the face of impossible odds), but today was for my personal first impressions. 
 
