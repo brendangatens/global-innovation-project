@@ -46,8 +46,5 @@ You can’t help but be impressed with the efforts of the community in Riga, and
 <hr>
 
 **References:** 
-
-<small>
 [http://www.tradingeconomics.com/south-korea/youth-unemployment-rate](http://www.tradingeconomics.com/south-korea/youth-unemployment-rate)
 [http://www.huffingtonpost.com/philip-kushmaro/the-next-big-tech-mafia-s_b_9881254.html](http://www.huffingtonpost.com/philip-kushmaro/the-next-big-tech-mafia-s_b_9881254.html)
-</small>
