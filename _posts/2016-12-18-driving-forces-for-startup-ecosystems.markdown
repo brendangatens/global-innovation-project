@@ -1,6 +1,7 @@
 ---
 title: Driving Forces for Startup Ecosystems
 date: 2016-12-18 16:44:00 Z
+Feature Image: "/uploads/IMG_3400.jpg"
 ---
 
 As I have been travelling around the world trying to understand local innovation ecosystems, one of the most interesting things to uncover has been the driving forces behind the innovation movement in each particular city or country. What was the spark that ignited the entrepreneurial fire and who were the people fanning the flames?
