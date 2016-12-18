@@ -18,5 +18,5 @@ Most recently I have been exploring the ecosystem in Riga in Latvia, and here we
 
 You can’t help but be impressed with the efforts of the community in Riga, and with the genuine sense of comradery and support that exists in this small group. There is a down-to-earth realism as they recognise the challenges they face, and also a strong sense of pride in their young country that helps them dig their heels in and continue through slow growth and stagnant periods without funding. Having spent time with this group I too am hopeful and optimistic that their dogged work will pay off and prove that anyone with enough determination can drive startup growth in their region. 
 
-![IMG_3400.jpg](/uploads/IMG_3400.jpg)
-*The calm between the storms*
+![Startup Wise Guys Demo Day in Riga](/uploads/IMG_3400.jpg)
+*Startup Wise Guys Demo Day in Riga*
