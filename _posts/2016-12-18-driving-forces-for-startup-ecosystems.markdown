@@ -50,5 +50,4 @@ References:
 [http://www.tradingeconomics.com/south-korea/youth-unemployment-rate](http://www.tradingeconomics.com/south-korea/youth-unemployment-rate)
 
 [http://www.huffingtonpost.com/philip-kushmaro/the-next-big-tech-mafia-s_b_9881254.html](http://www.huffingtonpost.com/philip-kushmaro/the-next-big-tech-mafia-s_b_9881254.html)
-
 </small>
