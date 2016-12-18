@@ -16,8 +16,8 @@ Nokia were also a key player for this ecosystem, initially by raising Finland’
 
 Heading down to the Baltics, the drivers change again, with Estonia’s thriving ecosystem seeded by the success of startup pioneer Skype, bought by Microsoft in 2011 for $8.5 Billion. This phenomenal exit brought investment funds back into the ecosystem to seed new startups and also freed up talent to begin new ventures (the so-called ‘Skype Mafia’ has spawned more than 30 new companies). 
 
-![Skype Mafia - companies founded by ex-Skype employees](/uploads/IMG_3400.jpg)
-*Startup Wise Guys Demo Day in Riga*
+![Skype Mafia - companies founded by ex-Skype employees](/uploads/SkypeMafia.JPG)
+*Companies spawned by the Skype Mafia, image courtesy of [Huffington Post](http://www.huffingtonpost.com/philip-kushmaro/the-next-big-tech-mafia-s_b_9881254.html)*
 
 Tracing back the historic roots for the Skype success, one theory points to the Soviet decision to build an Institute of Cybernetics in Estonia, increasing technical expertise in the country at an early stage in digital development. There was also a specific case of a group of teachers having the forethought to bring some disused computers into their schools in the mid 1980s, allowing particular groups of young people the opportunity to get a head-start on tech education (apparently the original Skype techies came from this fortunate group). The Estonia government went on to value technology education with their pioneering ‘Tiger’s Leap’ program in the 1990s, which brought internet connectivity and computer labs to almost all schools across the country. 
 
