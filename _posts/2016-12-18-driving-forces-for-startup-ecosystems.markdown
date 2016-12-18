@@ -1,6 +1,15 @@
 ---
 title: Driving Forces for Startup Ecosystems
 date: 2016-12-18 16:44:00 Z
+categories:
+- innovation
+tags:
+- innovation
+- South Korea
+- Russia
+- Finland
+- Estonia
+- Latvia
 Feature Image: "/uploads/IMG_3400.jpg"
 ---
 
