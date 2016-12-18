@@ -12,6 +12,9 @@ If we look at the timelines of each ecosystem, we see that Russia kicked off its
 
 Moving through to Finland, I was fascinated to discover that this was an ecosystem born and led by the students. University groups at pivotal institutions like Aalto University and University of Helsinki formed entrepreneurial societies which supported education, events and incubation of startups. The annual Slush conference in Helsinki is testament to the success of the student groups – beginning in 2008 as a get together for 200 startups, since the Aalto Entrepreneurship Society took it over in 2011 it has grown to a global event with over 15,000 attendees. 
 
+![View of attendees at Slush conference](/uploads/IMG_2874.jpg)
+*Bird's eye view of Slush*
+
 Nokia were also a key player for this ecosystem, initially by raising Finland’s international brand as a technology centre, and later during their downfall by freeing talent back into the ecosystem and giving young people the incentive to carve their own paths rather than relying on cushy corporate jobs. The timeline for the Helsinki movement began around 2008, in line with the growing popularity of the iPhone (and the related decline of Nokia), and interest in entrepreneurship developed rapidly as the financial crisis took hold. 
 
 Heading down to the Baltics, the drivers change again, with Estonia’s thriving ecosystem seeded by the success of startup pioneer Skype, bought by Microsoft in 2011 for $8.5 Billion. This phenomenal exit brought investment funds back into the ecosystem to seed new startups and also freed up talent to begin new ventures (the so-called ‘Skype Mafia’ has spawned more than 30 new companies). 
