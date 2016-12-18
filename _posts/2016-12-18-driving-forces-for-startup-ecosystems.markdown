@@ -8,7 +8,7 @@ As I have been travelling around the world trying to understand local innovation
 
 My first stops, South Korea and Russia, shared a similar driver in the government. The governments of both countries have traditionally taken a very hands-on approach in many aspects of society, and the startup ecosystems have been no exception. Each government takes a different approach and has different goals in mind, but in both cases much of the startup funding comes either directly or indirectly from the government and many of the support programs for startups are government-led. For South Korea the key aims are around job creation and reducing reliance on the super-size ‘chaebol’ conglomerates (e.g. Samsung, LG, Hyundai). For Russia it is about diversifying a struggling economy away from over-dependence on oil and gas and other natural resource (along with finding new ways to extend the profitability of these industries). 
 
-![Viktor Vekselberg giving a talk](/uploads/IMG_2874.jpg)
+![Viktor Vekselberg giving a talk](/uploads/IMG_0754.jpg)
 *Viktor Vekselberg, President of the Skolkovo Foundation, speaking at the 2016 Open Innovations Conference at Skolkovo*
 
 If we look at the timelines of each ecosystem, we see that Russia kicked off its grandest project – the Skolkovo Foundation – in 2006, around the time that social media platforms like Facebook were really beginning to make their mark on the world. South Korea’s government-driven initiatives have tended to be more recent, with some key projects like D.Camp in Seoul and the Korea Credit Guarantee Fund launched in 2012. This timing coincides with some of the weakest growth levels for the country following the financial crisis, and with the beginning of a general rise in unemployment rates for young people. 
