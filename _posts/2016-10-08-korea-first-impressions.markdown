@@ -27,8 +27,8 @@ I’ve read many tales of the hard-working nature of Koreans, but it looks like 
 
 Despite the relaxed evening atmosphere, I did see signs of the competitive Korea I had read about, as well as getting a glimpse of the scale of Seoul’s population size. The public transit was crammed full even though I was traveling in the middle of the day (I’d hate to see it in rush hour), and the first billboards presented to me when I got off the plane were for ‘medi-tours’ and plastic surgery (one estimate I read suggested around half of young women in Korea have plastic surgery to get ahead).
 
-![IMG_0933.jpg](/uploads/IMG_0933.jpg)
-![IMG_0932.jpg](/uploads/IMG_0932.jpg)
+![Plastic surgery poster](/uploads/IMG_0933.jpg)
+![Meditour poster](/uploads/IMG_0932.jpg)
 
 The last of my early observations is very telling of Korea’s difficult past and its complicated relationship with America, for the streets are packed with more 7-Elevens than I have ever seen (despite having lived in America for 3 years). Add to that the Dunkin Donuts, the Quiznos, and the constant presence of fried chicken, and you can really see the leftovers of American involvement in the country. 
 
