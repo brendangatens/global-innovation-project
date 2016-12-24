@@ -42,7 +42,7 @@ Most recently I have been exploring the ecosystem in Riga in Latvia, and here we
 
 The Riga group began with a few entrepreneurs banding together in 2011 to provide a space and an event to bring together the local startup community - this was the start of TechHub Riga and the annual [TechChill](http://www.techchill.co/) conference. More recently, in February 2016, more of the ecosystem was united under the new Latvian Startup Association, who are taking an active role in lobbying the government for entrepreneur-friendly legislation. This has had some key early successes including the introduction of 'Startup Law' in 2017 to cap taxes small business employers must pay for their employees. The Startup Association was formed following the first Riga Venture Summit, which brought together investors from across the Baltics in 2015. 
 
-The latest group to join the Riga ecosystem is B2B accelerator Startup Wise Guys, who recently completed their first batch based in Riga. Next year will also bring the first annual [Digital Freedom Festival](http://www.digitalfreedomfestival.com) to continue to unite the Baltic innovation community.
+The latest group to join the Riga ecosystem is B2B accelerator Startup Wise Guys, who recently completed their first batch based in Riga. 2016 also saw the first annual [Digital Freedom Festival](http://www.digitalfreedomfestival.com), uniting the Baltic innovation community.
 
 ![Startup Wise Guys Demo Day in Riga](/uploads/IMG_3400.jpg)
 *Startup Wise Guys Demo Day in Riga*
