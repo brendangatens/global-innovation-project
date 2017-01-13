@@ -1,6 +1,20 @@
 <footer id="site-footer">
   <div class="container">
-    <a href="/"><img class="logo" src="{{ "/images/gip-logo-nude.svg" | prepend: site.baseurl }}"></a>
+    <div class="row">
+      <div class="col-md-6">
+        <a href="/"><img class="logo" src="{{ "/images/gip-logo-nude.svg" | prepend: site.baseurl }}"></a>
+      </div>
+      <div class="col-md-2">
+        <h6>Follow the project</h6>
+        <ul class="nav navbar-nav social-links clearfix">
+          {% include social-links-list.html %}
+        </ul>
+      </div>
+      <div class="col-md-4">
+        <!-- <h6>Subscribe to our mailing list</h6> -->
+        {% include mailchimp-signup.html %}
+      </div>
+    </div>
   </div>
 </footer>
 

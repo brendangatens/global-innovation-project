@@ -5,7 +5,7 @@ html {
 body {
   font-family: 'Sailec', sans-serif;
   font-weight: 400;
-  padding-bottom: 40px;
+  padding-bottom: 24px;
 }
 
 p, li {
@@ -245,6 +245,29 @@ hr {
   .logo {
     width: 148px;
     height: 60px;
+    @include media-breakpoint-down(md) {
+      margin-bottom: 40px;
+    }
+  }
+  .social-links {
+    a {
+      color: $white;
+      font-size: 22px;
+    }
+    @include media-breakpoint-down(md) {
+      margin-bottom: 40px;
+    }
+  }
+  #mc_embed_signup {
+    clear: both;
+    .email {
+      height: 36px;
+      background-color: #474747;
+    }
+  }
+  #mc-embedded-subscribe {
+    top: 3px;
+    right: 3px;
   }
 }
 
