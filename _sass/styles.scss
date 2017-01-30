@@ -5,7 +5,7 @@ html {
 body {
   font-family: 'Sailec', sans-serif;
   font-weight: 400;
-  padding-bottom: 40px;
+  padding-bottom: 24px;
 }
 
 p, li {
@@ -57,13 +57,6 @@ hr {
     letter-spacing: $default-letter-spacing;
   }
   &:hover {
-    h3 {
-      color: $blue;
-      &:after {
-        content: ' →';
-        color: $pink;
-      }
-    }
     .post-feature-image {
       &:before {
         content: '';
@@ -75,6 +68,47 @@ hr {
       	background-image: linear-gradient(to bottom right,$blue,$pink);
       	opacity: .15;
       }
+    }
+  }
+}
+
+.post-post {
+  &:hover {
+    h3 {
+      color: $blue;
+      &:after {
+        content: ' →';
+        color: $blue;
+      }
+    }
+  }
+}
+
+.post-external-link {
+  background-color: rgb( 10, 10, 10);
+  padding: 30px;
+  &:hover {
+    background-color: rgb(0,0,0);
+    text-decoration: none;
+    .external-link-url {
+      color: $pink;
+      &:after {
+        content: ' →';
+        color: $pink;
+      }
+    }
+  }
+  h6 {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: .075em;
+  }
+  .post-excerpt {
+    padding-top: 23px;
+    margin-bottom: 0;
+    p {
+      margin-bottom: 0;
     }
   }
 }
@@ -230,6 +264,44 @@ hr {
   font-weight: bold;
   span {
     display: block;
+  }
+}
+
+
+//////////////////////////////////////////
+///////////////// FOOTER /////////////////
+//////////////////////////////////////////
+
+
+#site-footer {
+  padding-top: 38px;
+  border-top: 1px solid #474747;
+  .logo {
+    width: 148px;
+    height: 60px;
+    @include media-breakpoint-down(md) {
+      margin-bottom: 40px;
+    }
+  }
+  .social-links {
+    a {
+      color: $white;
+      font-size: 22px;
+    }
+    @include media-breakpoint-down(md) {
+      margin-bottom: 40px;
+    }
+  }
+  #mc_embed_signup {
+    clear: both;
+    .email {
+      height: 36px;
+      background-color: #474747;
+    }
+  }
+  #mc-embedded-subscribe {
+    top: 3px;
+    right: 3px;
   }
 }
 
