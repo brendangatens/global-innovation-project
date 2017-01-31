@@ -1,7 +1,7 @@
 ---
 title: The Soviet Legacy and its Impact on Innovation in Eastern Europe
 date: 2017-01-26 18:56:00 Z
-Feature Image: "/uploads/IMG_4084.jpg"
+Feature Image: "/uploads/IMG_4084a.jpg"
 ---
 
 As I flash my torch up the dark steps and make my way up to my apartment, I can’t help but think that the Soviet legacy is more evident here in Bucharest than in any of the other Eastern European cities I have visited so far. It is only 4:30pm, and it is still light outside (a happy realisation after months of traveling in more Northern places where the sun has set by now), but the staircase is lit neither by natural nor artificial light. I suppose the windowless gloom is classic of Soviet buildings, and I’m told the broken bulb hasn’t been replaced because nobody thinks it’s their responsibility; a classic of Soviet thinking. 
