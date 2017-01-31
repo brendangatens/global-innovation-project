@@ -38,7 +38,7 @@ But of course the point of digging into history is not just to understand the pr
 
 The good news is that amazing progress is already being made across Eastern Europe in all these areas, and passionate people are building important programs to help startups tackle exactly these problems. We have events to bring people together, like TechChill in Latvia and sTARTUp Day in Estonia. Accelerators like StartupWiseGuys and StartupWeekend to give startups training and connect them to support network. And Coworking spaces like TechHub, ImpactHub, and Makerspaces to bring people together.
 
-![Community wall at Nod Makerspace, Bucharest](/uploads/IMG_4071.jpg)
+![Community wall at Nod Makerspace](/uploads/IMG_4071.jpg)
 *Community wall at Nod Makerspace, Bucharest*
 
 The European Union has also played a pivotal role, and not simply by providing funding. Take Poland, which saw large scale emigration as soon as the country joined the EU in 2004. Young, talented people left the relatively poor country to seek job opportunities and new experiences in countries like the UK. Some people have viewed this negatively as a ‘brain drain’, but in fact it seems that there has been a substantial benefit. Young people who went abroad are now returning to a more profitable Poland and bringing with them new skills, especially in sales and service. This is plugging a vital skills gap. They are also sharing new experiences and new cultural understanding, even when they don’t return to Poland. 
