@@ -45,5 +45,5 @@ The European Union has also played a pivotal role, and not simply by providing f
 
 In conclusion, the Soviet legacy left Eastern Europe with a skewed skillset and a culture more suited to private problem solving than saleable innovation, but this legacy is beginning to fade, especially in communities which are willing to both foster internal communities and open up to other cultures. Many people are working hard to improve educations, strip away distrust and build supportive communities. I can only hope in these strange political times that governments recognise and support the value they are bringing to their economies. 
 
-![View of Warsaw](/uploads/IMG_3453.jpg)
-*View of Warsaw*
+![Birds over Bucharest](/uploads/IMG_4089.jpg)
+
