@@ -23,6 +23,9 @@ While a lack of trust may cause startups to clam up about their ideas, a differe
 ## Problem solving
 In the charming city of Brasov, nestled in the mountains of Transylvania, there is a town square with a beautiful 15th Century town hall with a clock tower. During the Soviet times (when poor Brasov had the dubious honour of being renamed ‘Stalin’), a live televised event was held in that square, with the clock showing in the back of many shots. The (unofficial) problem was, that clock had been broken for quite some time. However, this was the USSR, where there were no problems. And so it was that for the whole of the televised broadcast, a man sat on the roof by the clock and every minute, when the cameras looked away, he moved the hands on to the right time. Perhaps the first and only human clock mechanism. 
 
+![Brasov town square](/uploads/IMG_3862.jpg)
+*Brasov town square*
+
 I’m not just telling this story because I think it’s funny. For me, it illustrates the diametrically opposed impacts the Soviet era had on problem solving. People soon learned that pointing out problems was a good way to make sure you got much bigger problems for yourself going forward. And it’s tough for problems to get fixed if they don’t officially exist. So that leaves two options: a) you live with problems (like the lightbulb in Bucharest); or b) you find your own ways around them (like human-powered clocks). And so the Soviet lifestyle bred two different groups – those who won’t try to fix anything because it’s not their job and they don’t want to get in trouble; and those who are ingenuous problem solvers who will always find a way around a problem. Consequently, while innovation across society was damped down, the situation simultaneously served to amplify the innovative natures of certain individuals. 
 
 ## Market understanding 
