@@ -27,17 +27,17 @@ While Uber’s power is in the disruption of traditional markets, the power of t
 <hr>
 
 ## Epilogue
-Since writing this post I moved on to Surabaya, Indonesia's second-largest city, and here in the marginally less chaotic traffic, after my first good night's sleep in Indonesia, I was finally ready to mount my first ojek... I loved it! Most of my misgivings proved unfounded - I didn't feel unsafe, I didn't get particularly hot and sweaty, and my hair mostly looked a little windswept. However, I also discovered the flaw in the digital system - when it breaks, it really breaks. 
+Since writing this post I moved on to Surabaya, Indonesia's second-largest city, and here in the marginally less chaotic traffic, after my first good night's sleep in Indonesia, I was finally ready to mount my first ojek. And I loved it! Most of my misgivings proved unfounded - I didn't feel unsafe, I didn't get particularly hot and sweaty, and my hair just looked a little windswept. However, I also discovered the flaw in the digital system - when it breaks, it really breaks. 
 
 Wanting to test out Go-Jek itself, I downloaded the app, which has a cute interface and offers countless other on-demand options than just GO-JEK, including 'GO-MASSAGE', 'GO-CLEAN', 'GO-GLAM', and even 'GO-MED'. Unfortunately my delight soon dissipated when I tried to book a driver and faced a never-ending loading page as it failed to connect me with any drivers. I gave up and defaulted to Uber (which was cheaper anyway), and soon my driver, Adji, pulled up outside the hotel in his orange jacket. 
 
-I almost laughed out loud as we whizzed through the streets, finally feeling like I was truly experiencing Indonesia, part of it rather than watching it through windows like I'd done for endless hours in Jakarta. 
+I almost laughed out loud as we whizzed through the streets, finally feeling like I was truly experiencing Indonesia; part of it rather than watching it through windows like I'd done for endless hours in Jakarta. 
 
 I spent a magical afternoon exploring the Muslim and Chinese districts of Surabaya, taking endless photos as people cried 'Miss Miss!', 'Photo, photo!', and pulled funny faces for my camera. Finally I decided to head back to the hotel, and opened my Uber app... only to find that had broken too! Some sort of payment error had pretty much short-circuited everything and I couldn't book a thing (still can't). Trying Go-Jek again, I finally landed a ride, only to stare forlornly at the motionless driver icon getting no closer to me. 
 
-Stranded at a shopping mall filled with batik clothing and ladies' underwear, I knew what to do. I messaged my knight in orange-jacketed armour, Adji, who had texted me after our ride to say I could call him directly any time. And so Adji became my personal driver for the day, taking me to meetings and waiting patiently for me to reappear. So while the apps may be good for getting people connected, after that sometimes it's better to just go back to good old-fashioned 'here's my number, you call me any time' service. (Not too old-fashioned though, thanks Whatsapp!)
+Stranded at a shopping mall filled with batik clothing and ladies' underwear, I knew what to do. I messaged my knight in orange-jacketed armour, Adji (who had texted me after our ride to say I could call him directly any time). And that's how Adji became my personal driver for the day, taking me to meetings and waiting patiently for me to reappear. So while the apps may be good for getting people connected, beyond that, sometimes it's better to just go back to good old-fashioned 'here's my number, you call me any time' service. (Not too old-fashioned though, thanks Whatsapp!)
 
-My final message from Adji: *'Senang sekali bisa mengenal kamu Kathryn'* ('Glad to know you Kathryn')
+My final message from Adji: *'Senang sekali bisa mengenal kamu Kathryn'* 'Glad to know you Kathryn' (with a few too many heart-eyed emojis)
 
 ![Me and Adji](/uploads/IMG_4368.jpg)
 *Setting off on my first ride with Adji*
