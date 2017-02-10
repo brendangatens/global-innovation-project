@@ -27,7 +27,7 @@ While Uber’s power is in the disruption of traditional markets, the power of t
 <hr>
 
 ## Epilogue
-Since writing this post I moved on to Surabaya, Indonesia's second-largest city, and here in the marginally less chaotic traffic, after my first good night's sleep in Indonesia, I was finally ready to mount my first ojek... I loved it! Most of my misgivings proved unfounded - I didn't feel unsafe, I didn't get particularly hot and sweaty, and my hair mostly looked a little windswept. However, I also discovered the flaw in the digital system - when it breaks, it really breaks. 
+Since writing this post I moved on to Surabaya, Indonesia's second-largest city, and here in the marginally less chaotic traffic, after my first good night's sleep in Indonesia, I was finally ready to mount my first ojek. And I loved it! Most of my misgivings proved unfounded - I didn't feel unsafe, I didn't get particularly hot and sweaty, and my hair mostly looked a little windswept. However, I also discovered the flaw in the digital system - when it breaks, it really breaks. 
 
 Wanting to test out Go-Jek itself, I downloaded the app, which has a cute interface and offers countless other on-demand options than just GO-JEK, including 'GO-MASSAGE', 'GO-CLEAN', 'GO-GLAM', and even 'GO-MED'. Unfortunately my delight soon dissipated when I tried to book a driver and faced a never-ending loading page as it failed to connect me with any drivers. I gave up and defaulted to Uber (which was cheaper anyway), and soon my driver, Adji, pulled up outside the hotel in his orange jacket. 
 
