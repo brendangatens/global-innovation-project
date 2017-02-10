@@ -17,6 +17,8 @@ Just as the Uber effect has spread across America, with Silicon Valley constantl
 
 While Uber’s power is in the disruption of traditional markets, the power of the Go-Jek effect is to empower local businesses. They provide infrastructure where the city provides none, and bring a little bit of order to the chaos of Jakarta. 
 
+<hr>
+
 ## Epilogue
 Since writing this post I moved on to Surabaya, Indonesia's second-largest city, and here in the marginally less chaotic traffic, after my first good night's sleep in Indonesia, I was finally ready to mount my first ojek... I loved it! Most of my misgivings proved unfounded - I didn't feel unsafe, I didn't get particularly hot and sweaty, and my hair mostly looked a little windswept. However, I also discovered the flaw in the digital system - when it breaks, it really breaks. 
 
@@ -28,5 +30,5 @@ I spent a magical afternoon exploring the Muslim and Chinese districts of Suraba
 
 Stranded at a shopping mall filled with batik clothing and ladies' underwear, I knew what to do. I messaged my knight in orange-jacketed armour, Adji, who had texted me after our ride to say I could call him directly any time. And so Adji became my personal driver for the day, taking me to meetings and waiting patiently for me to reappear. So while the apps may be good for getting people connected, after that sometimes it's better to just go back to good old-fashioned 'here's my number, you call me any time' service. (Not too old-fashioned though, thanks Whatsapp!)
 
-My final message from Adji: 'Senang sekali bisa mengenal kamu Kathryn' (Glad to know you Kathryn)
+My final message from Adji: 'Senang sekali bisa mengenal kamu Kathryn' ('Glad to know you Kathryn')
 
