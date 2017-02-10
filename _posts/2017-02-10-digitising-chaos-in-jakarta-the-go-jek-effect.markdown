@@ -16,3 +16,5 @@ While the Uber effect has been to diversify a traditional industry and allow any
 Just as the Uber effect has spread across America, with Silicon Valley constantly producing new ‘sharing economy’ apps and ‘uberifying’ every service they can, the Go-Jek effect is spreading across Indonesia. There are countless startups offering on-demand services, from food delivery to at-home massages. But the value here isn’t that these services are on demand. The value for Indonesia is that these services are digitising the economy. They provide easy platforms to help ‘mom and pop’ businesses compete with mass e-commerce services. In only a few days I met one startup building a platform for auto-repair shops, and another bringing a digital ordering and delivery service to local florists. 
 
 While Uber’s power is in the disruption of traditional markets, the power of the Go-Jek effect is to empower local businesses. They provide infrastructure where the city provides none, and bring a little bit of order to the chaos of Jakarta. 
+
+Epilogue
