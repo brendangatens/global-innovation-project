@@ -30,5 +30,5 @@ I spent a magical afternoon exploring the Muslim and Chinese districts of Suraba
 
 Stranded at a shopping mall filled with batik clothing and ladies' underwear, I knew what to do. I messaged my knight in orange-jacketed armour, Adji, who had texted me after our ride to say I could call him directly any time. And so Adji became my personal driver for the day, taking me to meetings and waiting patiently for me to reappear. So while the apps may be good for getting people connected, after that sometimes it's better to just go back to good old-fashioned 'here's my number, you call me any time' service. (Not too old-fashioned though, thanks Whatsapp!)
 
-My final message from Adji: 'Senang sekali bisa mengenal kamu Kathryn' ('Glad to know you Kathryn')
+My final message from Adji: *'Senang sekali bisa mengenal kamu Kathryn'* ('Glad to know you Kathryn')
 
