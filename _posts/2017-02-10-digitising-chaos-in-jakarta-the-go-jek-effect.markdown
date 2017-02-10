@@ -5,13 +5,22 @@ date: 2017-02-10 15:58:00 Z
 
 It’s 9:30am and I’m supposed to be in a meeting. Instead I’m sitting in a stationary Uber, watching thousands of motorbikes, carrying everything from goods, to passengers, to portable children’s playparks, weave through the gaps between the trapped cars. This is Jakarta, Indonesia’s capital. A vibrant, bustling city, crippled by its woefully inadequate transport infrastructure. There are no pavements, the metro system has been delayed until at least 2019, and the roads are in a such a state of chaos that it is common for drivers to bribe their way out of an intersection. The only vehicles that work here are the motorbikes, and if you want to get to your meetings on time during the rush hour, you either hop on the back of an ‘ojek’ motorbike taxi or resign yourself to a very long drive. 
 
+![A street in Jakarta](/uploads/IMG_4084.jpg)
+*Palace of Parliament, Bucharest*
+
 I’m a bit embarrassed to admit that in my three days of traipsing between meetings in Jakarta, I haven’t managed to get up the guts to ride an ojek. I’m not an adrenaline junky and motorbikes seem risky enough in a country where people obey traffic laws. The thought of clinging to the back of a stranger while dodging through narrow gaps between honking cars doesn’t appeal. There is also the prospect of arriving to your meeting hot, sweaty and reeking of pollution (with a serious case of helmet hair). However, despite my reservations, I can see that if I spent any more time in Jakarta then ojeks would have become my main form of transit, simply because nothing else is practical on those congested streets. 
 
 The ojek business is embedded in the fabric of Jakarta life. Drivers cluster together with their bikes near the entrance to every apartment block, station and shopping mall (of which there are many – Indonesia is a very consumerist culture). Walking near to them raises a chorus of “hello miss”, “where you going?”, which I shrug off as I wait for my safer, slower Uber car. I specify Uber car, because here - and in a few other Asian cities – Uber offers a motorbike service. You see them whizzing around with orange jackets, their passengers sporting helmets with UBER stamped across the back. It’s a service they had to offer in this market, in order to keep up. Because Uber aren’t the market leader here, their orange jackets are far outnumbered by the green jackets of the ‘Go-Jek’ drivers, along with the green helmets of their main competitor ‘Grab’. 
 
+![An Uber motorbike taxi](/uploads/IMG_4084.jpg)
+*Palace of Parliament, Bucharest*
+
 Go-Jek is Indonesia’s first ‘unicorn’ startup, founded in 2010, with a $550million funding round in 2016 valuing them at $1.3billion. Simply put, they brought the Uber model to ojeks, matching drivers and passengers through a booking app. Go-Jek faced resistance at first, as less tech-savvy drivers accused them of taking away their livelihoods; but soon competitive demand took over and drivers have steadily embraced the technology as a helpful tool rather than a threat. Grab operate a very similar business, but Indonesia is only one of the Malaysian startup’s six operating regions. 
 
 While the Uber effect has been to diversify a traditional industry and allow anyone with a car to turn it into a source of income, the Go-Jek effect is about digitising a road-side business. It didn’t necessarily bring new drivers to the road, instead it gave the existing drivers better tools to optimise their earnings. The old model saw drivers wasting much of their time waiting for fares, putting their bets on the popular areas, and fighting amongst each other for each rider who came along. Now the app does this job for them, and they can spend more of their time actually earning, as well as reaching a broader customer base. 
+
+![A group of Go-Jek drivers](/uploads/IMG_4084.jpg)
+*Palace of Parliament, Bucharest*
 
 Just as the Uber effect has spread across America, with Silicon Valley constantly producing new ‘sharing economy’ apps and ‘uberifying’ every service they can, the Go-Jek effect is spreading across Indonesia. There are countless startups offering on-demand services, from food delivery to at-home massages. But the value here isn’t that these services are on demand. The value for Indonesia is that these services are digitising the economy. They provide easy platforms to help ‘mom and pop’ businesses compete with mass e-commerce services. In only a few days I met one startup building a platform for auto-repair shops, and another bringing a digital ordering and delivery service to local florists. 
 
@@ -32,3 +41,5 @@ Stranded at a shopping mall filled with batik clothing and ladies' underwear, I 
 
 My final message from Adji: *'Senang sekali bisa mengenal kamu Kathryn'* ('Glad to know you Kathryn')
 
+![Me and Adji](/uploads/IMG_4084.jpg)
+*Palace of Parliament, Bucharest*
