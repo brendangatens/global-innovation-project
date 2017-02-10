@@ -1,6 +1,7 @@
 ---
 title: 'Digitising Chaos in Jakarta: the Go-Jek Effect'
 date: 2017-02-10 15:58:00 Z
+Feature Image: "/uploads/IMG_4180.jpg"
 ---
 
 It’s 9:30am and I’m supposed to be in a meeting. Instead I’m sitting in a stationary Uber, watching thousands of motorbikes, carrying everything from goods, to passengers, to portable children’s playparks, weave through the gaps between the trapped cars. This is Jakarta, Indonesia’s capital. A vibrant, bustling city, crippled by its woefully inadequate transport infrastructure. There are no pavements, the metro system has been delayed until at least 2019, and the roads are in a such a state of chaos that it is common for drivers to bribe their way out of an intersection. The only vehicles that work here are the motorbikes, and if you want to get to your meetings on time during the rush hour, you either hop on the back of an ‘ojek’ motorbike taxi or resign yourself to a very long drive. 
