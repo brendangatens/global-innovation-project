@@ -31,7 +31,7 @@ Since writing this post I moved on to Surabaya, Indonesia's second-largest city,
 
 Wanting to test out Go-Jek itself, I downloaded the app, which has a cute interface and offers countless other on-demand options than just GO-JEK, including 'GO-MASSAGE', 'GO-CLEAN', 'GO-GLAM', and even 'GO-MED'. Unfortunately my delight soon dissipated when I tried to book a driver and faced a never-ending loading page as it failed to connect me with any drivers. I gave up and defaulted to Uber (which was cheaper anyway), and soon my driver, Adji, pulled up outside the hotel in his orange jacket. 
 
-I almost laughed out loud as we whizzed through the streets, finally feeling like I was truly experiencing Indonesia, part of it rather than watching it through windows like I'd done for endless hours in Jakarta. 
+I almost laughed out loud as we whizzed through the streets, finally feeling like I was truly experiencing Indonesia; part of it rather than watching it through windows like I'd done for endless hours in Jakarta. 
 
 I spent a magical afternoon exploring the Muslim and Chinese districts of Surabaya, taking endless photos as people cried 'Miss Miss!', 'Photo, photo!', and pulled funny faces for my camera. Finally I decided to head back to the hotel, and opened my Uber app... only to find that had broken too! Some sort of payment error had pretty much short-circuited everything and I couldn't book a thing (still can't). Trying Go-Jek again, I finally landed a ride, only to stare forlornly at the motionless driver icon getting no closer to me. 
 
