@@ -47,35 +47,26 @@ The dimensions of my research will spread across four broad categories:
 **Company information**
 
 * Volume of startups
-
 * Types of industries, sectors and target markets
-
 * Various metrics on startups - size, age, stage, valuation etc
 
 **Founder demographics**
 
 * Demographics of startup founders - age, gender, background etc
-
 * Drivers to found a business
 
 **Capital sources**
 
 * Availability and liquidity of capital
-
 * Nature of capital investment (venture, angel, bootstrapped etc)
-
 * Presence of corporate venture funds
 
 **Innovation infrastructure**
 
 * Innovation network structure - groups, campuses, meetups, locations etc
-
 * Support from local government
-
 * Involvement of local businesses
-
 * Level of impact of innovation community from local to global scale
-
 * Innovation methodologies
 
 ## The countries
@@ -98,9 +89,23 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 * Berlin (Dec 18th - 23rd)
 
+* Poland
+
+* Hungary
+
+* Romania
+
 **Leg 3 (February – March 2017):**
 
-* Southern Asia
+* Indonesia (Feb 5th - 15th)
+
+* Singapore (Feb 15th - 19th)
+
+* Malaysia (Feb 20th - 23rd)
+
+* Thailand
+
+* Vietnam
 
 **Leg 4 (March – May 2017):**
 
