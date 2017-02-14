@@ -95,7 +95,7 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 * Romania
 
-**Leg 3 (February – March 2017):**
+**Leg 3 SOUTHEAST ASIA (February – March 2017):**
 
 * Indonesia (Feb 5th - 15th)
 
