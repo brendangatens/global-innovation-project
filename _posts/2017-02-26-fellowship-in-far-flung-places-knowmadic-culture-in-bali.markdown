@@ -1,6 +1,8 @@
 ---
 title: 'Fellowship in Far-Flung Places: ‘Knowmadic’ Culture in Bali'
 date: 2017-02-26 04:29:00 Z
+categories:
+- Indonesia
 Feature Image: "/uploads/IMG_4623.jpg"
 ---
 

@@ -1,6 +1,8 @@
 ---
 title: 'Digitising Chaos in Jakarta: the Go-Jek Effect'
 date: 2017-02-10 15:58:00 Z
+categories:
+- Indonesia
 Feature Image: "/uploads/IMG_4180.jpg"
 ---
 
