@@ -103,9 +103,9 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 * Malaysia (Feb 20th - 23rd)
 
-* Thailand
+* Thailand (Feb 24th - Mar 3rd)
 
-* Vietnam
+* Vietnam (Mar 3rd - 9th)
 
 **Leg 4 - SOUTH AMERICA (March – May 2017):**
 
