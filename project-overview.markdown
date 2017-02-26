@@ -95,7 +95,7 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 * Romania
 
-**Leg 3 SOUTHEAST ASIA (February – March 2017):**
+**Leg 3 - SOUTHEAST ASIA (February – March 2017):**
 
 * Indonesia (Feb 5th - 15th)
 
@@ -107,9 +107,17 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 * Vietnam
 
-**Leg 4 (March – May 2017):**
+**Leg 4 - SOUTH AMERICA (March – May 2017):**
 
-* South America
+* Uruguay
+
+* Argentina
+
+* Chile
+
+* Brazil
+
+* Colombia
 
 **Leg 5 (June 2017):**
 
