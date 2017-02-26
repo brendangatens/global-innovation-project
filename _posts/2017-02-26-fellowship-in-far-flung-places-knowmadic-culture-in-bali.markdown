@@ -1,6 +1,7 @@
 ---
 title: 'Fellowship in Far-Flung Places: ‘Knowmadic’ Culture in Bali'
 date: 2017-02-26 04:29:00 Z
+Feature Image: "/uploads/IMG_4623.jpg"
 ---
 
 Solidarity. That was the watchword of February 14th at Green School, in between Ubud and Denpasar on the popular Indonesian island of Bali. For anyone who is not good with dates (and annually gets in trouble with their loved one), this was Valentine’s Day, but it also the date for the less well-known and more recently coined ‘VDay’, which celebrates women’s rights and protests against violence towards women and girls. It may seem a heavy topic for a school, but this is no ordinary school. 
