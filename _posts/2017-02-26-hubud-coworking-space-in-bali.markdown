@@ -1,6 +1,7 @@
 ---
-title: Hubud coworking space in Bali
+title: 'Hubud: coworking space in Bali'
 date: 2017-02-26 03:34:00 Z
+published: false
 categories:
 - Link
 Link URL: https://www.hubud.org/
