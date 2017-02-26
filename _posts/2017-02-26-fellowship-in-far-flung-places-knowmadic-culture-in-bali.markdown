@@ -25,6 +25,9 @@ It is about solidarity, just as VDay at Green School was a call for solidarity. 
 <hr>
 
 **Links:**
-* test [greenschool.org](https://www.greenschool.org/)
-* test [vday.org](http://www.vday.org/)
-* test [hubud.org](https://www.hubud.org)
+
+[greenschool.org](https://www.greenschool.org/)
+
+[vday.org](http://www.vday.org/)
+
+[hubud.org](https://www.hubud.org)
