@@ -6,9 +6,12 @@ Feature Image: "/uploads/IMG_4623.jpg"
 
 Solidarity. That was the watchword of February 14th at Green School, in between Ubud and Denpasar on the popular Indonesian island of Bali. For anyone who is not good with dates (and annually gets in trouble with their loved one), this was Valentine’s Day, but it also the date for the less well-known and more recently coined ‘VDay’, which celebrates women’s rights and protests against violence towards women and girls. It may seem a heavy topic for a school, but this is no ordinary school. 
 
+![VDay dance at Green School](/uploads/IMG_4778.jpg)
+
 Founded by John and Cynthia Hardy, Green School opened in 2008 with an ethos of education for sustainability. Children from across the world follow a holistic, student-led curriculum, which includes more time spent out of the classroom than inside it. Though even being inside a classroom here is still a vastly different experience to most people’s school days – the campus is a sprawling wonderland of natural beauty and breath-taking bamboo structures. 
 
-![VDay dance at Green School](/uploads/IMG_4778.jpg)
+![Green School teaching building](/uploads/IMG_4801.jpg)
+![Green School classroom](/uploads/IMG_4809.jpg)
 
 It was in one of the more modest of these bamboo buildings that I found myself on VDay 2017, watching a flash dance performance from students and their Mums (plus some very enthusiastic Dads) celebrating women and girls. I was here to meet with Chris Thompson, Director of Hubud, a community and coworking space based in Ubud, one of the cultural hotspots of Bali. Hubud was the reason I had travelled the entire length of Java on two trains, followed by a ferry and a very long drive (punctuated by a storm so intense I had to spend a night in the tiny town of Negara to wait until it was safe to drive). I have visited coworking spaces all over the world, and my dual senses of intrigue and adventure drove me to see what coworking was like in such an unlikely region. 
 
