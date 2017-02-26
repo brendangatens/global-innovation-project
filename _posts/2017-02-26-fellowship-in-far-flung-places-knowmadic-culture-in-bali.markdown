@@ -20,3 +20,10 @@ Green School went beyond simply offering a place for expats to educate their chi
 Renee and Steve saw the rise of the knowmads in Bali, and realised that they needed a way to come together as a community and support one another. Hubud grew out of this idea, and it is as much a community as it is a physical working space, putting on almost-daily events and providing workers with a small anchor back to some of the positive aspects of their old working lives. 
 
 It is about solidarity, just as VDay at Green School was a call for solidarity. As part of the celebration on February 14th, the students put together an assembly filled with poetry, songs, videos and presentations. They didn’t talk just about women, they talked about everybody working together in solidarity, and supporting each other equally. This solidarity is the most interesting facet of the knowmadic movement, for people who have left it all behind, and waved goodbye to their communities, are managing to form new and stronger communities as a result. Speaking to people about why they enjoy working at Hubud, a common factor was the lack of hierarchy and the openness to support each other in ways that just wouldn’t have happened back home. The banker giving up time to offer advice to the startup; the ex-director of a major corporate division sharing a bench with a young web developer. These people may have left what they know, but they have found people who understand them better: fellowship, far-away on the beautiful island of Bali. 
+
+<hr>
+
+Links:
+https://www.greenschool.org/
+http://www.vday.org/
+https://www.hubud.org
