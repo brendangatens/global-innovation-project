@@ -34,8 +34,8 @@ Renee and Steve saw the rise of the knowmads in Bali, and realised that they nee
 
 It is about solidarity, just as VDay at Green School was a call for solidarity. As part of the celebration on February 14th, the students put together an assembly filled with poetry, songs, videos and presentations. They didn’t talk just about women, they talked about everybody working together in solidarity, and supporting each other equally. This solidarity is the most interesting facet of the knowmadic movement, for people who have left it all behind, and waved goodbye to their communities, are managing to form new and stronger communities as a result. Speaking to people about why they enjoy working at Hubud, a common factor was the lack of hierarchy and the openness to support each other in ways that just wouldn’t have happened back home. The banker giving up time to offer advice to the startup; the ex-director of a major corporate division sharing a bench with a young web developer. These people may have left what they know, but they have found people who understand them better: fellowship, far-away on the beautiful island of Bali. 
 
-![Traditional dance in Ubud](/uploads/IMG_4584.jpg)
 ![Barong dance in Kuta](/uploads/IMG_4915.jpg)
+![Traditional dance in Ubud](/uploads/IMG_4584.jpg)
 
 <hr>
 
