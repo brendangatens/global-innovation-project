@@ -129,9 +129,7 @@ The main outputs from the research will be:
 
 * Global Report: A comprehensive study identifying and comparing innovation centers across the world including forecasting of where we may see future centers emerge. A breakdown of startup demographics across the globe, identifying trends in types of businesses and their founders.
 
-* Local Reports: Monthly deep-dives on each visited location
-
-Follow this website for regular posts from the field. As I travel, I will be sharing insights related to the research as well as general commentary on my travel experiences.
+* Follow this website for regular posts from the field. As I travel, I will be sharing insights related to the research as well as general commentary on my travel experiences.
 
 ## Who will benefit from the research?
 
