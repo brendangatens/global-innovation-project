@@ -7,4 +7,4 @@ categories:
 Link URL: http://startups.hu
 ---
 
-Startups.hu has a great collection of this and that. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit.
+Startups.hu is an extensive database of Hungarian tech startups and entrepreneurs
