@@ -28,7 +28,7 @@ The story of why people leave is typically similar: growing tired of the traditi
 
 ![Desks at Hubud](/uploads/IMG_4508.jpg)
 
-Green School went beyond simply offering a place for expats to educate their children, it aimed to reinvent education, just as the Bali immigrants had chosen to reinvent their own lives. Green School became a beacon, drawing a new wave to Bali, those like Chris and his wife, who believe education needs a dramatic overhaul, and saw Green School as a way to give their kids the best start in life. Among the Green School parents are Renee Martyna and Steve Monroe, the co-founders of Hubud. 
+Green School went beyond simply offering a place for expats to educate their children, it aimed to reinvent education, just as the Bali immigrants had chosen to reinvent their own lives. Green School became a beacon, drawing a new wave to Bali, those like Chris and his wife, who believe education needs a dramatic overhaul, and saw Green School as a way to give their kids the best start in life. Among the Green School parents are Renee Martyna and Steve Monroe, two of the co-founders of Hubud. 
 
 Renee and Steve saw the rise of the knowmads in Bali, and realised that they needed a way to come together as a community and support one another. Hubud grew out of this idea, and it is as much a community as it is a physical working space, putting on almost-daily events and providing workers with a small anchor back to some of the positive aspects of their old working lives. 
 
