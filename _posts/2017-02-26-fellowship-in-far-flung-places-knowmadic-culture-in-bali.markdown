@@ -26,9 +26,9 @@ I wasn’t surprised to find that Hubud was filled with foreigners rather than l
 
 The story of why people leave is typically similar: growing tired of the traditional, often corporate, lifestyle; searching for a new sense of purpose; adventure and exploration. What is more interesting are the new communities that are forming to serve the needs of the knowmads. In Bali it began with the local culture and ethos. People came to Bali for the lush beauty of the landscape, the cultural richness of the traditional crafts and dances, and the peaceful, spiritual way of life. Services began to build up for the foreigners choosing to make their homes in paradise, and prime among those was Green School.
 
-![Desks at Hubud](/uploads/IMG_4508.jpg)
+![Barong dance in Kuta](/uploads/IMG_4915.jpg)
 
-Green School went beyond simply offering a place for expats to educate their children, it aimed to reinvent education, just as the Bali immigrants had chosen to reinvent their own lives. Green School became a beacon, drawing a new wave to Bali, those like Chris and his wife, who believe education needs a dramatic overhaul, and saw Green School as a way to give their kids the best start in life. Among the Green School parents are Renee Martyna and Steve Monroe, the co-founders of Hubud. 
+Green School went beyond simply offering a place for expats to educate their children, it aimed to reinvent education, just as the Bali immigrants had chosen to reinvent their own lives. Green School became a beacon, drawing a new wave to Bali, those like Chris and his wife, who believe education needs a dramatic overhaul, and saw Green School as a way to give their kids the best start in life. Among the Green School parents are Renee Martyna and Steve Monroe, two of the co-founders of Hubud. 
 
 Renee and Steve saw the rise of the knowmads in Bali, and realised that they needed a way to come together as a community and support one another. Hubud grew out of this idea, and it is as much a community as it is a physical working space, putting on almost-daily events and providing workers with a small anchor back to some of the positive aspects of their old working lives. 
 
@@ -36,7 +36,6 @@ Renee and Steve saw the rise of the knowmads in Bali, and realised that they nee
 
 It is about solidarity, just as VDay at Green School was a call for solidarity. As part of the celebration on February 14th, the students put together an assembly filled with poetry, songs, videos and presentations. They didn’t talk just about women, they talked about everybody working together in solidarity, and supporting each other equally. This solidarity is the most interesting facet of the knowmadic movement, for people who have left it all behind, and waved goodbye to their communities, are managing to form new and stronger communities as a result. Speaking to people about why they enjoy working at Hubud, a common factor was the lack of hierarchy and the openness to support each other in ways that just wouldn’t have happened back home. The banker giving up time to offer advice to the startup; the ex-director of a major corporate division sharing a bench with a young web developer. These people may have left what they know, but they have found people who understand them better: fellowship, far-away on the beautiful island of Bali. 
 
-![Barong dance in Kuta](/uploads/IMG_4915.jpg)
 ![Traditional dance in Ubud](/uploads/IMG_4584.jpg)
 
 <hr>
