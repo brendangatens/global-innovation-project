@@ -113,6 +113,19 @@ hr {
   }
 }
 
+.resources {
+  .post-external-link {
+    margin-bottom: 10px;
+    &:last-child {
+      margin-bottom: 60px;
+    }
+  }
+}
+
+.resources-header {
+  margin-bottom: 30px;
+}
+
 .post-feature-image {
   position: relative;
   width: 100%;
