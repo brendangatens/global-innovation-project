@@ -107,6 +107,9 @@ hr {
   .post-excerpt {
     padding-top: 23px;
     margin-bottom: 0;
+    @include media-breakpoint-down(md) {
+      padding-top: 0;
+    }
     p {
       margin-bottom: 0;
     }
