@@ -29,6 +29,7 @@ defaults:
     Author: Kathryn White
     layout: post
     permalink: "/posts/:title/"
+    Link URL: 
 - scope:
     path: ''
     type: pages
