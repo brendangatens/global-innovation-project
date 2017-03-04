@@ -46,7 +46,7 @@ layout: default
         {% for post in site.posts %}
           {% if post.categories contains 'Report' %}
           {% elsif post.categories contains 'Link' %}
-            <a href="{{ post['Link URL'] }}" class="post-item post-external-link" target="_blank">
+            <!-- <a href="{{ post['Link URL'] }}" class="post-item post-external-link" target="_blank">
               <div class="row">
                 <div class="col-md-5">
                   <h6>Resource</h6>
@@ -57,7 +57,7 @@ layout: default
                   <p class="post-excerpt">{{ post.content | strip_html }}</p>
                 </div>
               </div>
-            </a>
+            </a> -->
           {% else if %}
             <a href="{{ post.url }}" class="post-item post-post">
               {% if post['Feature Image'] %}
