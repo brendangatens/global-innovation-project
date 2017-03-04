@@ -8,7 +8,7 @@ Feature Image: "/uploads/IMG_5064.jpg"
 
 When I arrived in Singapore, I had just finished reading Aldous Huxley’s Brave New World. In this iconic 1931 novel, Huxley imagines a hyper-controlled future which blurs the line between utopia and dystopia. For those if you who have visited Singapore, you might understand why this was so resonant. The city-state is perhaps the closest thing we have to a real manifestation of these utopian sci-fi imaginings, with its gigantic artificial ‘Supertrees’, ultra-modern shopping malls with towering screens broadcasting beautiful smiling people, and exaggerated architectural structures like the Marina Bay Sands (a gigantic ship balanced on three skyscrapers) and the new Esplanade Theatre (like a pair of super-sized Durian fruits). And it isn’t just utopian in look, there is also the approach to governance in Singapore, which has been variously described as a ‘nanny state’ or a ‘benevolent dictatorship’. 
 
-![Marina Bay Sands](/uploads/filename.jpg)
+![Marina Bay Sands](/uploads/IMG_5106.jpg)
 
 So how does it fare on the utopian-dystopian scale? Pretty well by all accounts. Yes, there are a lot of signs reminding you what you can’t do, and warning of fines; but things work in Singapore, which is not something you can say of most of their Southeast Asian neighbours. The streets are clean, there are pavements and safe places to cross the road, there is a comprehensive and smooth-running metro system, and even the mosquitos that plague you everywhere else in the region seem to be under control. Most importantly, on the whole Singaporeans seem pretty happy with the situation – everyone I met with spoke highly of the government. The overwhelming feeling was: the country’s doing well and we have everything we need, so we’re happy to have a pretty controlling government because they’re doing a good job. Coming from a staunchly pro-democracy Western background, that can be a hard sentiment to listen to sometimes, but given the current political turmoil in the Western world, the argument certainly has some merit. 
 
@@ -28,4 +28,4 @@ What’s also interesting is the attitude towards innovation. While in the West,
 
 And so, maybe Singapore will become the new port for innovation, just not its own. It has the opportunity to become the nursing area for the innovation of the ASEAN nations, helping them to connect to the wider world from the safety of a well-structured business environment. Perhaps Singapore can become the region’s incubator: a small market for a test-bed, while also co-ordinating the trade routes out across Asia and the world. And with this strange utopia for its innovation port, what a powerful region ASEAN could become. 
 
-![Singapore's supertrees](/uploads/filename.jpg)
+![Singapore's supertrees](/uploads/IMG_5084.jpg)
