@@ -1,7 +1,6 @@
 ---
 title: 'Green School: international school in Bali'
 date: 2017-02-26 03:30:00 Z
-published: false
 categories:
 - Link
 Link URL: https://www.greenschool.org/
