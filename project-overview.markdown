@@ -117,8 +117,6 @@ The trip will be carried out in five separate legs, covering different areas of 
 
 * Brazil
 
-* Colombia
-
 **Leg 5 (June 2017):**
 
 * Africa
