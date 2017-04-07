@@ -26,6 +26,15 @@ It can be difficult to hear the stories of these women, as I found when I watche
 
 While Vietnam has the entrepreneurs without the creativity, nearby Thailand has an almost opposite problem. The country is rich in creative pursuits, but seems to be lacking in any real commercial drive. If I was disappointed by the hostile negotiations of Hanoi, I was equally nonplussed by the entirely passive sales approach of business owners in Bangkok. I often found myself standing by market stalls or restaurant entrances waiting in vain for anyone to offer me any service, or actively trying to convince taxi drivers to take me somewhere. And forget buying something in the middle of the day, when shop staff would sit at the back of the store eating lunch and studiously ignoring potential customers. 
 
+![Motorbikes in Hanoi](/uploads/IMG_5726.jpg)
+*Hanoi traffic*
+
 The stark differences between the two countries also played out on the roads. While Vietnam traffic moves with a frenetic energy, a terrifying ballet of interweaving motorbikes in a permanent state of near-collision, Thai traffic doesn’t move at all. The Vietnamese will squeeze through any gap, and spontaneously respond en masse to changing road conditions like a hive mind. Meanwhile, you’ll find Thai drivers sat calmly in unmoving traffic, preferring to wait forever in Buddhist serenity than seek an alternate route. 
 
+![Monks on a ferry](/uploads/IMG_5374.jpg)
+*Buddhist monks traveling by river in Bangkok*
+
 My experience in the two countries only convinces me further of the opinion that the ASEAN nations will produce stronger startups by working as a collective rather than operating within their own countries. A combination of the creative thinking of the Thais with the unwavering work ethic and technical skills of the Vietnamese, incubated in the business haven of Singapore and marketed across the ASEAN population… now that might be a business worth betting on. 
+
+![Temple of the Emerald Buddha](/uploads/IMG_5424.jpg)
+*Temple of the Emerald Buddha, Bangkok*
