@@ -1,6 +1,12 @@
 ---
 title: Hard Bargaining or Soft-Selling? Commercial Culture in Vietnam and Thailand
 date: 2017-04-06 21:06:00 Z
+categories:
+- Southeast Asia
+- innovation
+- Vietnam
+- Thailand
+Feature Image: "/uploads/IMG_5772.jpg"
 ---
 
 Many years ago, I celebrated my eighteenth birthday in Beijing. I was at the very beginning of a year spent as an English teacher in the distant North-Western province of Gansu. It was in the colourfully chaotic markets of China that I learned the art (and joy!) of haggling. Good haggling tactics were essential if you wanted to avoid staggering out of a market in a dazed state, carrying goods you had never wanted but were somehow coerced into acquiring for more than you wanted to pay. 
