@@ -11,6 +11,9 @@ Argentina is a country with a rollercoaster history; a spectacular series of diz
 
 The past decade hasn’t been a good one for the Argentine economy. A damaging financial crisis in 2002 and a closed-off international policy has not helped the ailing markets. The new administration is working hard to reopen the country to foreign investment, but many investors are reluctant to put their money in a country with an unstable economy and a high level of corruption. That said, it now feels like an optimistic time for Argentina; like the rollercoaster has finally rolled through past the nadir and is once again heading skywards. I think the future could be very bright for Argentina’s nascent startup ecosystem. Yes, there are a lot of problems to overcome on the financial and structural side, but what the country lacks in financial capital, it makes up for in human capital. 
 
+![Mauricio Macri presents](/uploads/IMG_6339.jpg)
+*Mauricio Macri speaking about the new Entrepreneurial Law*
+
 In my exploration of startup communities across emerging markets, there are a few consistent problems that afflict young ecosystems. One of these is a lack of capital, another is a lack of talent. In both cases, what is needed is not just money and people, but the right kind of money and the right kind of people (with the right kind of education). Some countries, like Indonesia, have a real shortage of trained developers. While other countries, like Vietnam, have plenty of developers, but they are trained for outsourcing work, which means they are skilled at execution, not invention. There are plenty of countries where there is a real lack of money and even the ‘friends, family, fools’ source of investment is dry because nobody has any savings. There are others where there is plenty of money floating around, but it all ends up in traditional, ‘safe’ investments, like real estate and established businesses. What startups need are ‘smart’ investors, who understand how to assess the quality of these high risk investments and create deals which are beneficial to both parties.
 
 Both of these problems are difficult to fix. They can require real structural changes to country policies, and they typically also need a lot of time. Increasing investment depends on an economy with enough spare capital for risky ventures, while increasing technical talent may require a redesign of the education system or a reworking of the national curriculum. Smart capital requires additional time because it tends to come from prior entrepreneurs who have found success and reinvested in new companies. Similarly, with education, it can take a few cycles of startups before there are enough experienced mentors to help teach young founders what the universities can’t. 
@@ -27,4 +30,14 @@ Argentina’s impressive growth periods and its time spent as a global economic 
 On the financial side there are positive steps from Mauricio Macri’s government, which took the reins in 2015. There have been major business and investment reforms to encourage foreign investment, and while I was visiting Buenos Aires, Macri appeared at a packed out event to launch a new Entrepreneurial Law aimed at making it easier to start new businesses. Many Argentines are understandably sceptical about whether the government will succeed in its pledges, but current actions are certainly encouraging. After years of internal focus, Argentina is finally ready to put herself back out there: ‘Human capital seeks smart capital’ (traditionalists need not apply). 
 
 
-http://www.worldfinance.com/special-reports/a-history-of-economic-trouble-in-argentina
+<hr>
+
+**Resources:**
+
+[World Finance article](http://www.worldfinance.com/special-reports/a-history-of-economic-trouble-in-argentina)
+
+[Economist article](http://www.economist.com/news/briefing/21596582-one-hundred-years-ago-argentina-was-future-what-went-wrong-century-decline)
+
+[Argentina the Rise and Fall, John P. Connor](http://amzn.eu/6s0Fz5D)
+
+
