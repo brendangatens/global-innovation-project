@@ -4,6 +4,7 @@ date: 2017-04-24 15:27:00 Z
 tags:
 - argentina
 - innovation
+Feature Image: "/uploads/IMG_6317.jpg"
 ---
 
 Argentina is a country with a rollercoaster history; a spectacular series of dizzying highs and crashing lows, with endless political twists and turns. Despite being one of the world’s most successful economies in the early 20th Century, Argentines had a real flair for coups, with half a dozen military takeovers between 1930 and 1976. It wasn’t until 1989 that the country managed to return to calm political handovers between elected rulers. All of this political instability went hand-in-hand with economic instability and even once the democratic process had returned, a tendency towards poor economic decisions kept the economy riding the rollercoaster rails. Like many countries, Argentina tends to swing between political extremes, and with that comes a flip-flopping approach to trade policy; sometimes being over-reliant on exports, other times stifling the economy by closing itself off to the rest of the world. 
@@ -24,3 +25,6 @@ Argentina’s impressive growth periods and its time spent as a global economic 
 *Mauricio Macri speaking about the new Entrepreneurial Law*
 
 On the financial side there are positive steps from Mauricio Macri’s government, which took the reins in 2015. There have been major business and investment reforms to encourage foreign investment, and while I was visiting Buenos Aires, Macri appeared at a packed out event to launch a new Entrepreneurial Law aimed at making it easier to start new businesses. Many Argentines are understandably sceptical about whether the government will succeed in its pledges, but current actions are certainly encouraging. After years of internal focus, Argentina is finally ready to put herself back out there: ‘Human capital seeks smart capital’ (traditionalists need not apply). 
+
+
+http://www.worldfinance.com/special-reports/a-history-of-economic-trouble-in-argentina
