@@ -11,8 +11,8 @@ Argentina is a country with a rollercoaster history; a spectacular series of diz
 
 The past decade hasn’t been a good one for the Argentine economy. A damaging financial crisis in 2002 and a closed-off international policy has not helped the ailing markets. The new administration is working hard to reopen the country to foreign investment, but many investors are reluctant to put their money in a country with an unstable economy and a high level of corruption. That said, it now feels like an optimistic time for Argentina; like the rollercoaster has finally rolled through past the nadir and is once again heading skywards. I think the future could be very bright for Argentina’s nascent startup ecosystem. Yes, there are a lot of problems to overcome on the financial and structural side, but what the country lacks in financial capital, it makes up for in human capital. 
 
-![Mauricio Macri presents](/uploads/IMG_6339.jpg)
-*Mauricio Macri speaking about the new Entrepreneurial Law*
+![Members of startup community in Mendoza](/uploads/IMG_6440.jpg)
+*A small selection of the human capital fuelling the ecosystem in Mendoza, Argentina*
 
 In my exploration of startup communities across emerging markets, there are a few consistent problems that afflict young ecosystems. One of these is a lack of capital, another is a lack of talent. In both cases, what is needed is not just money and people, but the right kind of money and the right kind of people (with the right kind of education). Some countries, like Indonesia, have a real shortage of trained developers. While other countries, like Vietnam, have plenty of developers, but they are trained for outsourcing work, which means they are skilled at execution, not invention. There are plenty of countries where there is a real lack of money and even the ‘friends, family, fools’ source of investment is dry because nobody has any savings. There are others where there is plenty of money floating around, but it all ends up in traditional, ‘safe’ investments, like real estate and established businesses. What startups need are ‘smart’ investors, who understand how to assess the quality of these high risk investments and create deals which are beneficial to both parties.
 
@@ -20,10 +20,10 @@ Both of these problems are difficult to fix. They can require real structural ch
 
 A faster solution is to bring in the missing capital (both human and financial) from the outside, and this is one way to speed up the seeding of the ecosystem. However, attracting foreign capital may necessitate the stabilisation of the economy and the reduction of corruption, so it’s no mean feat in itself. Attracting foreign talent requires an appealing quality of life and a friendly immigration policy, also a tall order. 
 
-So why am I so bullish on Argentina’s chances? Because I do think that the money problem is easier to solve. At the end of the day, people are much more fickle than currency. Numerous interviewees on my travels (a lot of them investors), have told me that as long as you have a good proposal then you will always find the money somewhere. Money is always moving, that’s how it grows (speculate to accumulate), while people mostly prefer to stay still, and need a stack of compelling reasons (good or bad) to convince them to change. 
-
 ![Drawings about Argentine entrepreneurship](/uploads/IMG_6296.jpg)
 *Sketches of what entrepreneurship means to Argentines*
+
+So why am I so bullish on Argentina’s chances? Because I do think that the money problem is easier to solve. At the end of the day, people are much more fickle than currency. Numerous interviewees on my travels (a lot of them investors), have told me that as long as you have a good proposal then you will always find the money somewhere. Money is always moving, that’s how it grows (speculate to accumulate), while people mostly prefer to stay still, and need a stack of compelling reasons (good or bad) to convince them to change. 
 
 Argentina’s impressive growth periods and its time spent as a global economic power mean that it has a well-developed education system compared with many of its fellow Latam countries. Levels of university education are high and the system spits out more graduates each year, despite the economy not providing enough jobs for them. The pride from Argentina’s past success also means that these students are not educated for outsourcing; they are encouraged to think creatively (and they know how to solve problems since the country has suffered through so many). Until now, their best options after graduation might have been to leave the country to join a consultancy or other big firm. Today, startups offer a chance to build something important in their own homeland. 
 
