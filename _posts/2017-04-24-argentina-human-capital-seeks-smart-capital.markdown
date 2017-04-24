@@ -22,13 +22,15 @@ A faster solution is to bring in the missing capital (both human and financial) 
 
 So why am I so bullish on Argentina’s chances? Because I do think that the money problem is easier to solve. At the end of the day, people are much more fickle than currency. Numerous interviewees on my travels (a lot of them investors), have told me that as long as you have a good proposal then you will always find the money somewhere. Money is always moving, that’s how it grows (speculate to accumulate), while people mostly prefer to stay still, and need a stack of compelling reasons (good or bad) to convince them to change. 
 
-Argentina’s impressive growth periods and its time spent as a global economic power mean that it has a well-developed education system compared with many of its fellow Latam countries. Levels of university education are high and the system spits out more graduates each year, despite the economy not providing enough jobs for them. The pride from Argentina’s past success also means that these students are not educated for outsourcing; they are encouraged to think creatively (and they know how to solve problems since the country has suffered through so many). Until now, their best options after graduation might have been to leave the country to join a consultancy or other big firm. Today, startups offer a chance to build something important in their own homeland. 
+![Drawings about Argentine entrepreneurship](/uploads/IMG_6296.jpg)
+*Sketches of what entrepreneurship means to Argentines*
 
-![Mauricio Macri presents](/uploads/IMG_6339.jpg)
-*Mauricio Macri speaking about the new Entrepreneurial Law*
+Argentina’s impressive growth periods and its time spent as a global economic power mean that it has a well-developed education system compared with many of its fellow Latam countries. Levels of university education are high and the system spits out more graduates each year, despite the economy not providing enough jobs for them. The pride from Argentina’s past success also means that these students are not educated for outsourcing; they are encouraged to think creatively (and they know how to solve problems since the country has suffered through so many). Until now, their best options after graduation might have been to leave the country to join a consultancy or other big firm. Today, startups offer a chance to build something important in their own homeland. 
 
 On the financial side there are positive steps from Mauricio Macri’s government, which took the reins in 2015. There have been major business and investment reforms to encourage foreign investment, and while I was visiting Buenos Aires, Macri appeared at a packed out event to launch a new Entrepreneurial Law aimed at making it easier to start new businesses. Many Argentines are understandably sceptical about whether the government will succeed in its pledges, but current actions are certainly encouraging. After years of internal focus, Argentina is finally ready to put herself back out there: ‘Human capital seeks smart capital’ (traditionalists need not apply). 
 
+![Mauricio Macri presents](/uploads/IMG_6339.jpg)
+*Mauricio Macri speaking about the new Entrepreneurial Law*
 
 <hr>
 
