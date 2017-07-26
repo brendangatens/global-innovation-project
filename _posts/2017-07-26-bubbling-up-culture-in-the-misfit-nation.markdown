@@ -1,6 +1,7 @@
 ---
 title: 'Bubbling Up: Culture in the Misfit Nation'
 date: 2017-07-26 10:51:00 Z
+Feature Image: "/uploads/Bubbles_Oxygen_Riccia_Fluitans.jpg"
 ---
 
 When I was in high school, we carried out an incredibly dull experiment. The experiment consisted of counting how many tiny bubbles came off of water plants sitting in beakers of water. I don’t remember what we were supposed to learn from this (which tells you a lot about the quality of science education at my school), but it came to my mind today as I thought about the connection between culture and building successful startup ecosystems. 
