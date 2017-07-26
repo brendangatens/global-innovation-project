@@ -19,3 +19,9 @@ Imagine a pool where the water is too dark for sunlight to reach the plants, or 
 But of course our misfits are not only aligned to their contrary culture, they are also inherently connected to the culture of their physical nation. While they share common behaviours and ambitions with the bubbles from other ponds, they are products of their own local ecosystem. They may not fit the mould, but they intimately understand the mould and know better than anyone how to work both within it and around it. This is incredibly powerful because they combine an internal and an external view in one head, and that is where they spot the innovations. 
 
 Ecosystems must do their best to encourage these inside-outsiders, let them bubble up and out into the wider Misfit Nation, bringing oxygen to the local flora and fauna on their way.   
+
+<hr>
+
+I'd like to dedicate this post to a wonderful member of Misfit Nation who was sadly lost on July 22nd. Sam Moon was an incredibly hard working and passionate advocate for innovation, and an amazing connector of people. He had reached out to invite me to bring my research to China, offered to plan me an amazing whirlwind tour of all the key players, and introduced me to connections across Asia. I was hoping to take him up on the tour offer later in the year and it is my great regret that I did not plan the trip sooner and get the chance to meet him in person. 
+
+![Sam Moon](/uploads/SamMoon.jpg)
