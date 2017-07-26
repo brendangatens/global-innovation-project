@@ -24,4 +24,4 @@ Ecosystems must do their best to encourage these inside-outsiders, let them bubb
 
 I'd like to dedicate this post to a wonderful member of Misfit Nation who was sadly lost on July 22nd. Sam Moon was an incredibly hard working and passionate advocate for innovation, and an amazing connector of people. He had reached out to invite me to bring my research to China, offered to plan me an amazing whirlwind tour of all the key players, and introduced me to connections across Asia. I was hoping to take him up on the tour offer later in the year and it is my great regret that I did not plan the trip sooner and get the chance to meet him in person. Goodbye Sam, you made the world better.
 
-![Sam Moon](/uploads/SamMoon.jpg)
+![Sam Moon](/uploads/SamMoon.png)
