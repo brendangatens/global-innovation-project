@@ -1,6 +1,7 @@
 ---
 title: 'Celebrate the S-Bend: Attitudes to Innovation'
 date: 2017-10-19 10:15:00 Z
+Feature Image: "/uploads/IMG_5074.jpg"
 ---
 
 One discovery I hadn’t expected to make as I explored the world’s startup ecosystems, was a wide variation in how people viewed innovation. After nearly three years in the Silicon Valley bubble, it was easy to imagine that innovation and startups are inextricably intertwined concepts, however as I travelled I found different attitudes to innovation, from the romantic to the pragmatic.
