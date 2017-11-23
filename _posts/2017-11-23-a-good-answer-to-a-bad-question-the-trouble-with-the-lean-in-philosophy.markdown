@@ -37,7 +37,7 @@ So please, I am asking all the corporations out there to step up and accept thei
 
 <hr>
 
-**Postscript:** In my attempts to find a title picture for this article, I went to Google and discovered that getting a picture of happy women in an office environment is a tougher ask than I'd expected. I suppose I should be happy that Google has dovetailed nicely into my point...
+**Postscript:** In my attempts to find a title picture for this article, I went to Google and discovered that getting a royalty-free picture of happy women in an office environment is a tougher ask than I'd expected. I suppose I should be happy that my Google search has dovetailed nicely into my point...
 
 Search 1: **'Women Workplace Happy'** gave me no women in workplaces, just a lot of happy women not in offices, often holding babies. Oh, and one nice picture of a happy man in an office. 
 
