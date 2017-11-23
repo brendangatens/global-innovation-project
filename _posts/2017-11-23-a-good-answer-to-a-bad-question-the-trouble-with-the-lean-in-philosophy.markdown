@@ -42,7 +42,7 @@ Search 1: 'Women Workplace Happy' gave me no women in workplaces, just a lot of 
 
 ![Google search results Women Workplace Happy](/uploads/ScreenShot1.png)
 
-Search 2: 'Women Happy In Office' gave me zero groups of women (only one lady per office please!), several miserable women in offices (except the one taking a selfie), many pictures of a busty lady waving a credit card, and one not particularly happy dude standing on a street. 
+Search 2: 'Women Happy In Office' gave me zero groups of women (only one lady per office please!), several miserable women in offices (who cheer up when taking selfies), many pictures of a busty lady waving a credit card, and one not particularly happy dude standing on a street. 
 
 ![Google search results Women Happy In Office](/uploads/ScreenShot2.png)
 
