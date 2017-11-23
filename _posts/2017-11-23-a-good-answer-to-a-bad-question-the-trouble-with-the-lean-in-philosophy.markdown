@@ -1,7 +1,7 @@
 ---
 title: 'A Good Answer to a Bad Question: The Trouble with the Lean In Philosophy'
 date: 2017-11-23 13:27:00 Z
-Feature Image: "/uploads/WomenWorking-9ad174.jpg"
+Feature Image: "/uploads/WomenWorking.jpg"
 ---
 
 Anyone who has spent enough time in conversation with me will know that the topic I’m most likely to get vocal on, is the subject of equality and diversity in the workplace. As a woman who has spent many years working at the cross-section between the financial services and technology, sitting in the centre of a Venn diagram of two very male-dominated industries, this a topic very close to my heart. Any good conversation on this topic will soon turn to ‘how do we solve it?’, and inevitably Sheryl Sandberg’s ‘Lean In’ methodology is brought up. In this post I want to explain why the Lean In approach has always troubled me and why I think there are better ways to address gender inequality (as well as other inequalities in the corporate world). 
