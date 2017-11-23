@@ -33,3 +33,11 @@ And so, I would argue that the answer is for companies to lean out, not for wome
 The female population spent centuries, millennia even, being oppressed, kept down and out of the workforce. And yet somehow, gender equality in the workplace has been spun into being the women’s fault. We live in a culture which continues to portray women and girls in stereotyped ways and then we criticise women for not breaking free of these stereotypes. It’s like America having a culture of fast food and gigantic portions and then criticising people for getting overweight. Of course women need to take some responsibility and be part of the solution, but we didn’t cause the problem and it is not just our responsibility.
 
 So please, I am asking all the corporations out there to step up and accept their responsibility. There are simple steps, like looking at the language used in your role postings. There are even [free websites online](http://gender-decoder.katmatfield.com/) that will ‘gender decode’ it for you and tell you if you have a male bias you hadn’t realised. And then there is a deeper debate about rethinking existing recruitment and promotion processes; they were designed in a man’s world, are they suitable for a diverse one? Lean Out, and make space for new values. Lean Out, and accept where changes need to be made. And Lean Out because it is just good business. 
+
+
+Postscript: In my attempts to find a title picture for this article, I went to Google and discovered that getting a picture of happy women in an office environment is a tougher ask than I'd expected. I suppose I should be happy that Google has dovetailed nicely into my point...
+
+Search 1: 'Women Workplace Happy' gave me no women in workplaces, just a lot of happy women not in offices, often holding babies. Oh, and one nice picture of a happy man in an office. 
+
+
+Search 2: 'Women Happy In Office' gave me zero groups of women (only one lady per office please!), several miserable women in offices (except the one taking a selfie), many pictures of a busty lady waving a credit card, and one dude standing on a street. 
