@@ -35,6 +35,7 @@ The female population spent centuries, millennia even, being oppressed, kept dow
 
 So please, I am asking all the corporations out there to step up and accept their responsibility. There are simple steps, like looking at the language used in your role postings. There are even [free websites online](http://gender-decoder.katmatfield.com/) that will ‘gender decode’ it for you and tell you if you have a male bias you hadn’t realised. And then there is a deeper debate about rethinking existing recruitment and promotion processes; they were designed in a man’s world, are they suitable for a diverse one? Lean Out, and make space for new values. Lean Out, and accept where changes need to be made. And Lean Out, because it is just good business. 
 
+<hr>
 
 Postscript: In my attempts to find a title picture for this article, I went to Google and discovered that getting a picture of happy women in an office environment is a tougher ask than I'd expected. I suppose I should be happy that Google has dovetailed nicely into my point...
 
