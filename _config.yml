@@ -22,14 +22,11 @@ defaults:
     path: ''
     type: posts
   values:
-    Feature Image: 
-    Contents:
-      '1.0': Section name
-      '1.1': Section name
+    Feature Image:
     Author: Kathryn White
     layout: post
     permalink: "/posts/:title/"
-    Link URL: 
+    Link URL:
 - scope:
     path: ''
     type: pages
@@ -39,15 +36,15 @@ defaults:
     path: ''
     type: photos
   values:
-    Photo: 
-    Category: 
-    Country: 
-    City: 
+    Photo:
+    Category:
+    Country:
+    City:
     layout: photo
 - scope:
     path: ''
     type: cities
   values:
-    Country: 
+    Country:
 permalink: pretty
 markdown: kramdown
